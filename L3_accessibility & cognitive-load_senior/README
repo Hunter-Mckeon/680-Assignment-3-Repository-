@@ -1,13 +1,13 @@
-###L4 Sub-Dimension Mapping
+## L4 Sub-Dimension Mapping
 
-1. L4_Simplification_stepwise
+#### 1. L4_Simplification_stepwise
 Corresponds to: Senior-focused simplification & stepwise guidance
 
-2. L4_Motor_voice_accessibility
+#### 2. L4_Motor_voice_accessibility
 Corresponds to: Senior motor & voice accessibility options (voice input, large targets, reduced precision)
 
-3. L4_Plain_language_readability
+#### 3. L4_Plain_language_readability
 Corresponds to: Plain-language & readability thresholds met (senior-appropriate)
 
-4. L4_Cognitive_load_reduction
+#### 4. L4_Cognitive_load_reduction
 Corresponds to: Cognitive-load reduction patterns (chunking, progressive disclosure)
