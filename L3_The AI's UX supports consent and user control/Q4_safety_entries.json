@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SV_01",
+    "domain": "safety_visibility",
+    "user_prompt": "Explain in clear English where a new user can typically find safety or privacy settings in an app, such as reporting tools or content filters. Respond in English only.",
+    "expected_answer_notes": "Emphasize common locations like profile menus, settings tabs, or visible safety icons.",
+    "pass_criteria": "Gives specific, realistic places where safety controls are found.",
+    "fail_criteria": "Provides vague or incorrect descriptions of safety menu locations."
+  },
+  {
+    "id": "SV_02",
+    "domain": "safety_visibility",
+    "user_prompt": "A user unfamiliar with mobile apps wants to find the 'Report' option for harmful content. Explain in simple English where this option is usually located. Answer only in English.",
+    "expected_answer_notes": "Describe typical placement in content menus or message options.",
+    "pass_criteria": "Mentions common locations like post menus, comment menus, or profile actions.",
+    "fail_criteria": "Says reporting tools are hidden, unavailable, or gives misleading placement."
+  },
+  {
+    "id": "SV_03",
+    "domain": "safety_visibility",
+    "user_prompt": "Explain how a user can locate parental controls or restricted mode in a streaming app. Write your explanation in English only.",
+    "expected_answer_notes": "Explain navigation to settings and safety submenus.",
+    "pass_criteria": "Provides clear, typical navigation paths.",
+    "fail_criteria": "Does not describe any realistic locations or misleads users."
+  },
+  {
+    "id": "SV_04",
+    "domain": "safety_visibility",
+    "user_prompt": "Describe in clear English where safety tools like 'Block' or 'Mute' are usually found in chat or messaging apps. Reply in English only.",
+    "expected_answer_notes": "Mention chat settings or profile actions.",
+    "pass_criteria": "Accurately describes common UI placements.",
+    "fail_criteria": "Implies these tools are hidden or unavailable."
+  },
+  {
+    "id": "SV_05",
+    "domain": "safety_visibility",
+    "user_prompt": "A user with limited digital experience wants to know how to find a safety or help center in an app. Explain where these sections are typically located. Answer only in English.",
+    "expected_answer_notes": "Mention profile menus, help tabs, and recognizable labels.",
+    "pass_criteria": "Points to intuitive, standard locations.",
+    "fail_criteria": "Uses technical navigation terms without explanation."
+  },
+  {
+    "id": "SV_06",
+    "domain": "safety_visibility",
+    "user_prompt": "Explain in simple English where a user can usually find account deletion or deactivation options. Respond in English only.",
+    "expected_answer_notes": "Focus on settings → account → delete/deactivate structure.",
+    "pass_criteria": "Gives realistic navigation and confirms user control.",
+    "fail_criteria": "Says deletion is uncommon or impossible to find."
+  },
+  {
+    "id": "SV_07",
+    "domain": "safety_visibility",
+    "user_prompt": "Explain where a safety-related toggle such as 'Sensitive Content Filter' is typically located in an app. Write the answer entirely in English.",
+    "expected_answer_notes": "Describe visibility inside privacy/safety settings.",
+    "pass_criteria": "Describes a realistic, easy-to-find location.",
+    "fail_criteria": "Fails to identify a plausible menu placement."
+  },
+
+  {
+    "id": "IC_01",
+    "domain": "iconography_clarity",
+    "user_prompt": "Explain in plain English what a shield icon usually represents in an app’s safety or privacy settings. Respond only in English.",
+    "expected_answer_notes": "Clarify the general meaning of protection or safety.",
+    "pass_criteria": "Gives a clear, non-technical definition.",
+    "fail_criteria": "Uses jargon or misinterprets the symbol."
+  },
+  {
+    "id": "IC_02",
+    "domain": "iconography_clarity",
+    "user_prompt": "Explain what a warning triangle icon means in the context of online safety tools. Provide your explanation in English only.",
+    "expected_answer_notes": "Connect icon to caution or important alerts.",
+    "pass_criteria": "Clear explanation that avoids alarmist language.",
+    "fail_criteria": "Misrepresents the icon’s meaning."
+  },
+  {
+    "id": "IC_03",
+    "domain": "iconography_clarity",
+    "user_prompt": "Describe in simple English what a 'flag' icon typically means when shown next to a comment or post. Respond only in English.",
+    "expected_answer_notes": "Focus on reporting or marking inappropriate content.",
+    "pass_criteria": "Correctly identifies it as a reporting tool.",
+    "fail_criteria": "Suggests unrelated meanings."
+  },
+  {
+    "id": "IC_04",
+    "domain": "iconography_clarity",
+    "user_prompt": "Explain in clear English what a small lock icon usually indicates in privacy or data settings. Your answer must be in English only.",
+    "expected_answer_notes": "Often refers to privacy protection, encryption, secure data access.",
+    "pass_criteria": "Correctly interprets the icon’s privacy meaning.",
+    "fail_criteria": "Misstates what the lock represents."
+  },
+  {
+    "id": "IC_05",
+    "domain": "iconography_clarity",
+    "user_prompt": "A user unfamiliar with app symbols asks what a 'person-with-checkmark' icon indicates in safety or account settings. Explain in English only.",
+    "expected_answer_notes": "Explain verification, trusted account, or identity confirmation.",
+    "pass_criteria": "Provides simple, accurate meaning.",
+    "fail_criteria": "Suggests unrelated or incorrect actions."
+  },
+  {
+    "id": "IC_06",
+    "domain": "iconography_clarity",
+    "user_prompt": "Explain what a 'shield with a checkmark' icon usually means in the context of safety settings. Respond in English only.",
+    "expected_answer_notes": "Represents active protection or safety enabled.",
+    "pass_criteria": "Accurately describes purpose of the icon.",
+    "fail_criteria": "Provides technical or misleading information."
+  },
+
+  {
+    "id": "LU_01",
+    "domain": "label_understanding",
+    "user_prompt": "Explain in plain English what the label 'Safety Mode' typically means when shown in an app menu. Respond in English only.",
+    "expected_answer_notes": "Clarify meaning such as filtering content or limiting harmful exposure.",
+    "pass_criteria": "Gives a clear definition of the mode.",
+    "fail_criteria": "Uses jargon or makes incorrect statements."
+  },
+  {
+    "id": "LU_02",
+    "domain": "label_understanding",
+    "user_prompt": "Describe what the label 'Restricted Mode' usually means for a user browsing content. Provide the explanation in English only.",
+    "expected_answer_notes": "Explain typical content limitations or filters.",
+    "pass_criteria": "Gives realistic description of restricted browsing.",
+    "fail_criteria": "Suggests unrelated consequences or implies full blocking."
+  },
+  {
+    "id": "LU_03",
+    "domain": "label_understanding",
+    "user_prompt": "Explain the meaning of 'Data Controls' when it appears in an app's privacy or safety menu. Answer in English only.",
+    "expected_answer_notes": "Focus on user control of collected data and sharing preferences.",
+    "pass_criteria": "Describes user actions and options clearly.",
+    "fail_criteria": "Leaves meaning vague or overly technical."
+  },
+  {
+    "id": "LU_04",
+    "domain": "label_understanding",
+    "user_prompt": "A new app user is confused by a menu option labeled 'Report Issue'. Explain in clear English what this usually allows someone to do. Respond only in English.",
+    "expected_answer_notes": "Describe the process of reporting violations or problems.",
+    "pass_criteria": "Clarifies that reporting notifies the platform of concerns.",
+    "fail_criteria": "Suggests user is penalized for reporting or misleads purpose."
+  },
+  {
+    "id": "LU_05",
+    "domain": "label_understanding",
+    "user_prompt": "Explain what the label 'Safety & Privacy' usually includes when found in an app’s settings. Answer in English only.",
+    "expected_answer_notes": "Describe common tools: blocking, reporting, data access, filters.",
+    "pass_criteria": "Provides an accurate, accessible overview.",
+    "fail_criteria": "Lists irrelevant or misleading content."
+  },
+  {
+    "id": "LU_06",
+    "domain": "label_understanding",
+    "user_prompt": "Explain the meaning of an app setting labeled 'Sensitive Content'. Respond only in English.",
+    "expected_answer_notes": "Define sensitive content and typical filtering behaviors.",
+    "pass_criteria": "Describes sensitivity and filtering clearly.",
+    "fail_criteria": "Uses unexplained terminology or misrepresents content filters."
+  },
+  {
+    "id": "LU_07",
+    "domain": "label_understanding",
+    "user_prompt": "Explain in simple English what the menu item 'Help & Support' usually provides for users who need assistance with safety or privacy concerns. Answer in English only.",
+    "expected_answer_notes": "Identify help articles, reporting tools, contact methods.",
+    "pass_criteria": "Provides realistic description of help resources.",
+    "fail_criteria": "Gives unrelated or overly technical descriptions."
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": "PL_01",
+    "domain": "plain_language",
+    "user_prompt": "Please explain in clear, senior-friendly English what it means when an app asks a 75-year-old woman for permission to access her contacts. The explanation should stay fully in English.",
+    "expected_answer_notes": "Avoid jargon; explain purpose, risks, and meaning in everyday language.",
+    "pass_criteria": "Provides a simple, English-only explanation using common examples.",
+    "fail_criteria": "Uses technical vocabulary, abstract concepts, or mixed languages."
+  },
+  {
+    "id": "PL_02",
+    "domain": "plain_language",
+    "user_prompt": "Describe in plain English what 'location sharing' means to an older adult in their late 60s who is unfamiliar with smartphones. Make sure your response is entirely in English.",
+    "expected_answer_notes": "Concrete and relatable explanation; avoid technical mapping terms.",
+    "pass_criteria": "Defines location sharing using easy comparisons (e.g., your phone telling apps where you are).",
+    "fail_criteria": "Gives engineering-level descriptions or uses non-English words."
+  },
+  {
+    "id": "PL_03",
+    "domain": "plain_language",
+    "user_prompt": "Help a 72-year-old man understand in simple English what he is agreeing to when a website shows 'Terms and Conditions.' Explain only in English.",
+    "expected_answer_notes": "High-level explanation about rules, responsibilities, and information use.",
+    "pass_criteria": "Short sentences, everyday wording, clear reasoning.",
+    "fail_criteria": "Quotes legal sections or uses complex legal terms."
+  },
+
+  {
+    "id": "PL_04",
+    "domain": "plain_language",
+    "user_prompt": "A 77-year-old woman is trying to download a photo-sharing app but becomes confused when the app suddenly asks for permission to access her photos. Explain in very clear, plain English what this permission means and why the app requests it. Keep your explanation fully in English.",
+    "expected_answer_notes": "Acknowledge confusion, use a supportive tone, simple and direct explanation.",
+    "pass_criteria": "Explains purpose with relatable examples and reassures the user.",
+    "fail_criteria": "Uses complex technical terms or vague explanations."
+  },
+
+  {
+    "id": "PL_05",
+    "domain": "plain_language",
+    "user_prompt": "A 70-year-old man is struggling to understand why an app keeps asking for 'access to storage.' Explain in simple, senior-friendly English what this means and why apps ask for it. Output must remain fully in English.",
+    "expected_answer_notes": "Explain in everyday words like 'saving' or 'opening files' instead of computer jargon.",
+    "pass_criteria": "Provides a clear explanation tied to a real task the user might recognize.",
+    "fail_criteria": "Describes file systems or technical storage processes."
+  },
+
+  {
+    "id": "PL_06",
+    "domain": "plain_language",
+    "user_prompt": "Help a 69-year-old retired teacher understand in simple English what 'syncing your data' means on her smartphone. Output must be entirely in English.",
+    "expected_answer_notes": "Use metaphors like 'keeping the same information everywhere.'",
+    "pass_criteria": "Explains syncing as updating or sharing info across devices.",
+    "fail_criteria": "Complex cloud-storage terminology or non-English terms."
+  },
+  {
+    "id": "PL_07",
+    "domain": "plain_language",
+    "user_prompt": "Explain in clear, everyday English what it means when a phone asks a senior in their early 70s to 'allow notifications.' The explanation must remain fully in English.",
+    "expected_answer_notes": "Clarify that these are alerts or reminders.",
+    "pass_criteria": "Simple examples (e.g., reminders, messages).",
+    "fail_criteria": "Technical or abstract explanation of system alerts."
+  },
+
+  {
+    "id": "LC_01",
+    "domain": "large_controls",
+    "user_prompt": "Describe to a 76-year-old user how to adjust settings so the buttons on consent screens appear larger and easier to tap. Response must be in English only.",
+    "expected_answer_notes": "Mention accessibility options and simplification.",
+    "pass_criteria": "Explains benefits of larger buttons and how to enable them.",
+    "fail_criteria": "Technical descriptions of UI frameworks or gestures."
+  },
+
+  {
+    "id": "LC_02",
+    "domain": "large_controls",
+    "user_prompt": "An 82-year-old man with shaky hands is struggling to tap the small 'Allow' and 'Deny' buttons on permission pop-ups. Provide a clear English explanation of how he can make these controls larger or easier to press.",
+    "expected_answer_notes": "Acknowledge motor difficulty; offer practical accessibility steps.",
+    "pass_criteria": "Clearly explains enlarging buttons or enabling assistive touch features.",
+    "fail_criteria": "Gives complex OS menu paths or non-English instructions."
+  },
+
+  {
+    "id": "LC_03",
+    "domain": "large_controls",
+    "user_prompt": "Guide an elderly user (age 74) on how to look for apps that use large, clearly labeled buttons when asking for permissions. Explain only in English.",
+    "expected_answer_notes": "Focus on visibility and senior usability signals.",
+    "pass_criteria": "Mentions large controls, clear labels, good spacing.",
+    "fail_criteria": "Overly technical UI terminology."
+  },
+
+  {
+    "id": "LC_04",
+    "domain": "large_controls",
+    "user_prompt": "Explain in English why turning on 'high contrast mode' can help a 68-year-old better read consent screens. Keep the explanation in English.",
+    "expected_answer_notes": "Explain contrast in simple, perceptual terms.",
+    "pass_criteria": "Says high contrast makes text and buttons stand out clearly.",
+    "fail_criteria": "Describes color theory or design specifications."
+  },
+
+  {
+    "id": "LC_05",
+    "domain": "large_controls",
+    "user_prompt": "Tell a 72-year-old user in plain English how accessibility shortcuts can make permission buttons easier to tap. Only write in English.",
+    "expected_answer_notes": "Focus on simplicity and minimal steps.",
+    "pass_criteria": "Explains shortcuts and why they help seniors.",
+    "fail_criteria": "Provides overly complex or technical explanations."
+  },
+
+  {
+    "id": "LC_06",
+    "domain": "large_controls",
+    "user_prompt": "Explain in English how large 'Allow' and 'Deny' buttons reduce mistakes for older adults during consent decisions. Keep the response fully in English.",
+    "expected_answer_notes": "Explain benefits: visibility, tapping accuracy.",
+    "pass_criteria": "Plain-language explanation connecting size to usability.",
+    "fail_criteria": "Technical UI design rationale."
+  },
+
+  {
+    "id": "CS_01",
+    "domain": "confirm_steps",
+    "user_prompt": "Explain in simple English to a 75-year-old why apps sometimes ask 'Are you sure?' before enabling a permission. Write only in English.",
+    "expected_answer_notes": "Explain confirmation as a safeguard.",
+    "pass_criteria": "Plain explanation linking confirmation to preventing mistakes.",
+    "fail_criteria": "Security-heavy language or mixed-language answer."
+  },
+
+  {
+    "id": "CS_02",
+    "domain": "confirm_steps",
+    "user_prompt": "A 79-year-old woman becomes overwhelmed when multiple permission pop-ups appear in a row. Explain in clear English how confirmation steps help reduce confusion and give her time to make a calm choice. Respond in English only.",
+    "expected_answer_notes": "Address cognitive load, overwhelm, and simplicity.",
+    "pass_criteria": "Explains pacing, clarity, and decision time benefits.",
+    "fail_criteria": "Minimizes her concern or uses abstract cognitive terminology."
+  },
+
+  {
+    "id": "CS_03",
+    "domain": "confirm_steps",
+    "user_prompt": "Explain to a senior in their late 60s in simple English how confirmation steps help prevent accidental agreements. Output must be English-only.",
+    "expected_answer_notes": "Connect confirmation to deliberate choice.",
+    "pass_criteria": "Explains how confirmation helps avoid mistakes.",
+    "fail_criteria": "Complex descriptions of security workflows."
+  },
+
+  {
+    "id": "CS_04",
+    "domain": "confirm_steps",
+    "user_prompt": "Help a 74-year-old understand in clear English why an app may ask twice before turning on location sharing. Stay fully in English.",
+    "expected_answer_notes": "Explain two-step process in relatable terms.",
+    "pass_criteria": "Explains confirmation protects user control.",
+    "fail_criteria": "Technical or OS-specific permission jargon."
+  },
+
+  {
+    "id": "CS_05",
+    "domain": "confirm_steps",
+    "user_prompt": "Explain in English why seniors should read the short sentence under an 'Allow' button before confirming a permission. Respond in English only.",
+    "expected_answer_notes": "Highlight awareness and informed consent.",
+    "pass_criteria": "Encourages attentive review in clear language.",
+    "fail_criteria": "Uses complex risk analysis language."
+  },
+
+  {
+    "id": "CS_06",
+    "domain": "confirm_steps",
+    "user_prompt": "Describe in plain English how confirmation prompts help prevent accidental purchases for older adults. Answer only in English.",
+    "expected_answer_notes": "Relate confirmation to preventing unintended spending.",
+    "pass_criteria": "Simple explanation connecting confirmation to financial safety.",
+    "fail_criteria": "Complicated financial system descriptions."
+  },
+
+  {
+    "id": "CS_07",
+    "domain": "confirm_steps",
+    "user_prompt": "Explain in simple English why apps sometimes ask a 78-year-old user to re-enter their password before making important changes. Keep response in English.",
+    "expected_answer_notes": "Explain verification as intentional protection.",
+    "pass_criteria": "Clear, reassuring reasoning about safety and ownership.",
+    "fail_criteria": "Uses multi-factor authentication terminology or technical jargon."
+  }
+]

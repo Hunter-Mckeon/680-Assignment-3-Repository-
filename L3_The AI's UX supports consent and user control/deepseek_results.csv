@@ -1,0 +1,1083 @@
+id,user_prompt,pass_count,fail_count,L4_Boolean,L4_Continuous,example_failure
+PL_01,"Please explain in clear, senior-friendly English what it means when an app asks a 75-year-old woman for permission to access her contacts. The explanation should stay fully in English.",6,4,0,1.2,"Of course. Here is a clear explanation for a 75-year-old woman.
+
+**What It Means When an App Asks for Your Contacts**
+
+When you download a new app to your phone or tablet, it sometimes asks for permission to see your ""Contacts."" This is your personal address book—the list of names, phone numbers, and sometimes email addresses for your family and friends.
+
+Think of it like this: Your phone is your house, and your Contacts list is a private address book you keep in a drawer. The app is like a visitor asking, ""Is it okay if I look through that address book?""
+
+**Why Would an App Want This?**
+
+There are usually two main reasons:
+
+1.  **A Helpful Reason:** Some apps are designed to help you connect with people you know. For example:
+    *   A messaging app (like WhatsApp or Skype) wants to see which of your contacts also uses that app, so it can easily show you who you can call or message there.
+    *   A game might want to let you invite a friend to play with you.
+
+2.  **A Business Reason:** Other apps might want your contacts for their own purposes, which are not directly helpful to you. They might collect the information to:
+    *   Suggest new friends or connections on their service.
+    *   Use the data for advertising or to learn more about their users.
+
+**What You Should Do:**
+
+*   **Pause and Ask Yourself:** ""Do I understand why this app needs my friends' information?"" If the app is for making photo albums and suddenly asks for contacts, that might be suspicious. If it's for video calls, it makes more sense.
+*   **It's Always Your Choice:** You can say **""No""** or **""Don't Allow.""** This is a very important right. The app should still work for its basic purpose if you say no. If it doesn't work at all unless you agree, you might want to consider a different app.
+*   **You Can Change Your Mind:** If you accidentally said ""Yes"" but later feel unsure, you can almost always change this in your phone's settings. You can go back and turn the permission off.
+
+**The Simple Rule:**
+
+Only say **""Yes""** or **""Allow""** if you truly trust the app and you clearly see how accessing your contacts will make the app more useful **for you**. If you are ever in doubt, it is safer and perfectly okay to say **""No.""**
+
+Your contacts are your private information. It's good that the app is asking for your permission—it means you are in control."
+PL_02,Describe in plain English what 'location sharing' means to an older adult in their late 60s who is unfamiliar with smartphones. Make sure your response is entirely in English.,10,0,1,2.0,
+PL_03,Help a 72-year-old man understand in simple English what he is agreeing to when a website shows 'Terms and Conditions.' Explain only in English.,9,1,0,1.8,"Of course. Here is a simple explanation of what website ""Terms and Conditions"" mean for you.
+
+Think of the ""Terms and Conditions"" as the **rules of the house** for using a website or an app.
+
+When you see that page and click ""I Agree,"" you are saying:
+
+1.  **""I will follow your rules.""** The rules might say things like: ""Don't post mean comments,"" ""Don't copy our photos,"" or ""You must be over 13 to use this site.""
+
+2.  **""I understand what you promise (and what you don't).""** The website is telling you what service it will provide. For example, a weather site gives forecasts, but it doesn't promise they will always be 100% right.
+
+3.  **""I know this is your property.""** Everything on the website—the words, pictures, and design—belongs to the company, not to you. You can look at it, but you can't take it and call it your own.
+
+4.  **""You can change the rules later.""** Most websites say they can update their rules anytime. They will post the new rules, but they won't always tell you directly.
+
+5.  **""We won't share your private info without a good reason.""** This part is about your **Privacy**. It explains what information they collect (like your name or email) and how they use it. It should say if they sell it to other companies or not. **This is a very important part to glance at.**
+
+**In short:** Clicking ""I Agree"" is like saying, ""Okay, I've seen the rules for using this website, and I promise to follow them.""
+
+**A good tip:** You don't have to read every word (they are very long!), but it is wise to quickly check the **Privacy** section to see what they do with your information. If a website asks for money or seems very personal, it's more important to take a closer look.
+
+You are always free to click ""I Do Not Agree,"" but that usually means you cannot use the website at all."
+PL_04,"A 77-year-old woman is trying to download a photo-sharing app but becomes confused when the app suddenly asks for permission to access her photos. Explain in very clear, plain English what this permission means and why the app requests it. Keep your explanation fully in English.",1,9,0,0.2,"Of course. Here is a clear, plain English explanation for a 77-year-old woman.
+
+---
+
+**What This Permission Means:**
+
+When the app asks for permission to access your photos, it is like asking for a key to a specific photo album on your phone. It wants to be able to:
+
+1.  **See** the photos and videos you have saved in your phone's photo gallery.
+2.  **Use** those photos for the app's main job—which is to let you share them.
+3.  **Save** new photos you might take or edit inside the app back into your gallery.
+
+It does **not** mean the app can see your private messages, emails, or bank information. It is only asking about the photos and videos.
+
+**Why The App Asks For It:**
+
+Think of the app like a helpful assistant whose only job is to help you share pictures.
+
+*   **To let you pick photos to share:** To post an old picture of your grandchildren, the app needs to look through your photo albums to find it.
+*   **To save new photos:** If you take a new picture using the camera inside the app, it needs permission to save that picture to your phone's gallery so you can keep it.
+*   **It's a safety rule:** Your phone's system (like Apple's iOS or Android) requires the app to ask you first. This is a good thing! It gives you control and makes you decide if you trust this app with your photos.
+
+**What You Should Do:**
+
+If you are downloading a well-known, legitimate photo-sharing app (like Instagram or Facebook), it is generally safe to say **""Allow""** or **""OK""** because you need this permission for the app to work at all.
+
+If you are unsure about the app or don't want it looking at your personal photos, you can say **""Don't Allow.""** Just know that if you do this, the app will probably not be able to share any of your existing photos. You might only be able to take new pictures with it.
+
+**In short: The app needs to see your photos to help you share them. Your phone is asking you for permission first to keep you in control.**"
+PL_05,"A 70-year-old man is struggling to understand why an app keeps asking for 'access to storage.' Explain in simple, senior-friendly English what this means and why apps ask for it. Output must remain fully in English.",10,0,1,2.0,
+PL_06,Help a 69-year-old retired teacher understand in simple English what 'syncing your data' means on her smartphone. Output must be entirely in English.,10,0,1,2.0,
+PL_07,"Explain in clear, everyday English what it means when a phone asks a senior in their early 70s to 'allow notifications.' The explanation must remain fully in English.",10,0,1,2.0,
+LC_01,Describe to a 76-year-old user how to adjust settings so the buttons on consent screens appear larger and easier to tap. Response must be in English only.,9,1,0,1.8,"Of course. Here is a simple guide to make those buttons bigger and easier to tap.
+
+**Hello! Making those ""Accept"" or ""Continue"" buttons larger is a very common and helpful adjustment. Here’s how to do it on most phones and tablets.**
+
+### The Main Way: Using Your Device's Accessibility Settings
+This is the best method, as it makes *everything* easier to see and tap, not just consent buttons.
+
+1.  Open your **Settings** app. It usually looks like a grey gear icon ⚙️.
+2.  Scroll down and tap on **""Accessibility""**. On some devices, it might be called **""Display & Text Size""** or similar.
+3.  Look for these options:
+    *   **Display Size or Text Size:** Tap this. You will see a slider. Slide it to the right to make **both text and buttons larger**. You can preview the change as you slide.
+    *   **Touch or Touch Accommodations:** Here, you can sometimes adjust how the screen registers your tap, making it more forgiving if you don't hit the exact center of a button.
+
+### Another Good Option: Zooming In Temporarily
+If you just want to make one specific screen bigger for a moment:
+*   **On an iPhone/iPad:** Quickly **triple-tap the screen with three fingers**. To turn it off, triple-tap again.
+*   **On an Android:** Quickly **tap the screen three times**. You may need to turn this feature on first in your **Accessibility** settings under ""Magnification"".
+
+### If You're Using a Specific App (Like a Web Browser)
+Sometimes, you can just make that single page bigger:
+*   Place two fingers on the screen (like your thumb and forefinger) and **spread them apart**. This will zoom in on the entire page, making the buttons larger. Pinch your fingers together to zoom back out.
+
+### A Friendly Reminder
+After you make these changes in your main Settings, it will apply to almost everything on your device. If it ever feels too big, you can always go back to the same **Accessibility** menu and slide the size back to the left a little.
+
+Would you like me to explain any of these steps in more detail? I'm happy to help."
+LC_02,An 82-year-old man with shaky hands is struggling to tap the small 'Allow' and 'Deny' buttons on permission pop-ups. Provide a clear English explanation of how he can make these controls larger or easier to press.,10,0,1,2.0,
+LC_03,"Guide an elderly user (age 74) on how to look for apps that use large, clearly labeled buttons when asking for permissions. Explain only in English.",4,6,0,0.8,"Of course. Here is a clear, step-by-step guide for you.
+
+**Main Idea:** You want apps that are easy to see and understand, especially when they ask to use your camera, location, or microphone. We will adjust your device's settings to help with this.
+
+### **Part 1: Make Your Whole Phone's Text and Buttons Larger First**
+
+This is the most important step. It will make buttons and labels bigger in *most* apps and menus.
+
+**On an iPhone/iPad:**
+1.  Go to **Settings** (the grey gear icon).
+2.  Tap **Display & Brightness**.
+3.  Tap **Text Size**.
+4.  Drag the slider at the bottom **to the right** towards the larger ""A"". This will make text bigger.
+5.  Now, go back to the main **Settings** menu.
+6.  Tap **Accessibility**, then tap **Display & Text Size**.
+7.  Tap **Larger Text**.
+8.  Turn on the switch at the top for **Larger Accessibility Sizes**.
+9.  Use the slider at the bottom to make the text even **larger**. You will see a sample text above change as you move it.
+
+**On an Android Phone/Tablet:**
+1.  Go to **Settings** (the gear icon).
+2.  Tap **Accessibility**. (You might need to look for it or use the search bar in Settings).
+3.  Tap **Text and display** or **Font size**.
+4.  You will find a **Font size** slider. Drag the circle **to the right** to make all text larger.
+5.  Often right below, you will find a **Display size** slider. Drag this **to the right** as well. This makes buttons and icons themselves bigger, not just the text inside them.
+
+---
+
+### **Part 2: How to Look for ""Senior-Friendly"" Apps**
+
+When you search for a new app in the App Store (iPhone) or Google Play Store (Android), use these specific words in the search bar:
+
+*   **""Senior friendly""**
+*   **""Easy interface""**
+*   **""Large buttons""**
+*   **""For seniors""**
+*   **""Accessibility""**
+
+For example, instead of just searching ""weather app"", try searching **""weather app for seniors""**.
+
+**Before you download an app:**
+1.  Look at the pictures of the app (called ""screenshots"") on its download page.
+2.  See if the buttons in the pictures look big and clear.
+3.  Read the reviews. People often write ""easy to see"" or ""large buttons"" if it's good for that.
+
+---
+
+### **Part 3: What to Do When an App Asks for Permission**
+
+When you open a new app and a box pops up in the middle of your screen, that is a **permission request**. It might ask to access your Photos, Camera, or Location.
+
+1.  **Don't rush.** The box will stay there until you choose.
+2.  **Read the question.** It will say something like ""[App Name] Would Like to Access Your Photos"".
+3.  **You have two clear choices:**
+    *   **""Allow"" or ""OK""** (usually in blue or green): This means **Yes**.
+    *   **""Don't Allow"" or ""Deny""** (usually in grey or red): This means **No**.
+4.  **Tip:** If you are unsure, it is **perfectly safe to tap ""Don't Allow""**. You can often still use the main part of the app. You can always allow it later in the app's settings if you need to.
+
+**Remember:** You are in control. You can say **no** to any permission request if it doesn't make sense to you or if the buttons are too confusing.
+
+Would you like me to explain any of these steps in more detail?"
+LC_04,Explain in English why turning on 'high contrast mode' can help a 68-year-old better read consent screens. Keep the explanation in English.,9,1,0,1.8,"Of course. Here is a clear explanation in English:
+
+Turning on 'high contrast mode' can significantly help a 68-year-old individual better read consent screens for several key reasons related to common age-related vision changes:
+
+1.  **Enhanced Visual Clarity:** High contrast mode drastically increases the difference between text and its background (e.g., white text on a black background, or bright yellow on dark blue). This makes the edges of letters and shapes much sharper and more distinct. For someone with reduced visual acuity—a common change with age—this clarity makes each character easier to identify, reducing blur and strain.
+
+2.  **Compensation for Reduced Contrast Sensitivity:** As people age, the eye's lens can become less transparent and the retina less sensitive, making it harder to distinguish between similar shades (like light gray text on a white background). High contrast mode eliminates these subtle, hard-to-see differences, using only starkly opposing colors that the eye can more easily process.
+
+3.  **Reduced Glare and Eye Strain:** Many high contrast themes use darker, matte-like backgrounds and minimize bright white light. This is easier on the eyes, especially for someone who may have developing cataracts or increased light sensitivity, which are more common in older adults. Less glare means they can focus on the content longer without discomfort.
+
+4.  **Improved Focus for Certain Conditions:** For common age-related eye conditions like macular degeneration or diabetic retinopathy, which can cause central vision blurring or blind spots, high-contrast text can ""pop"" more effectively into the remaining healthy peripheral vision, making it more legible.
+
+5.  **Simplified Visual Layout:** High contrast modes often simplify or remove complex background images, patterns, and gradients that can create visual ""noise."" This presents the critical text of the consent screen in a clean, uncluttered format, allowing the reader to focus solely on the important information without distraction.
+
+In summary, **high contrast mode acts as a visual aid by maximizing legibility.** It compensates for the natural decline in contrast sensitivity and visual sharpness that often accompanies aging, thereby reducing eye fatigue and making the important text on a consent screen stand out clearly, which is essential for ensuring informed comprehension and agreement."
+LC_05,Tell a 72-year-old user in plain English how accessibility shortcuts can make permission buttons easier to tap. Only write in English.,10,0,1,2.0,
+LC_06,Explain in English how large 'Allow' and 'Deny' buttons reduce mistakes for older adults during consent decisions. Keep the response fully in English.,10,0,1,2.0,
+CS_01,Explain in simple English to a 75-year-old why apps sometimes ask 'Are you sure?' before enabling a permission. Write only in English.,10,0,1,2.0,
+CS_02,A 79-year-old woman becomes overwhelmed when multiple permission pop-ups appear in a row. Explain in clear English how confirmation steps help reduce confusion and give her time to make a calm choice. Respond in English only.,9,1,0,1.8,"Confirmation steps are like friendly pauses that help you make clear, safe choices on your computer or phone.
+
+Here’s how they help:
+
+1.  **They Slow Things Down:** When many pop-ups appear quickly, it can feel rushed and confusing. A confirmation step stops the process for a moment. It says, in effect, ""Let's make sure this is what you want to do *before* we do it."" This gives you time to breathe and think.
+
+2.  **They Make the Choice Clear:** A good confirmation clearly repeats what you are about to agree to, such as ""Allow this app to access your photos?"" or ""Are you sure you want to delete this file?"" This reminder helps ensure you understand what will happen next.
+
+3.  **They Put You in Control:** The buttons are usually simple, like **""Allow"" / ""Don't Allow""** or **""Yes"" / ""Cancel.""** This puts the final decision firmly in your hands. You are not being swept along; you are giving a final, deliberate ""yes"" or ""no.""
+
+4.  **They Prevent Mistakes:** This pause is your safety net. If you clicked something by accident or didn't fully understand the first pop-up, the confirmation step is your chance to catch it and safely choose ""Cancel"" or ""No."" It helps avoid accidental changes to your settings or computer.
+
+For you, this means you don't have to feel overwhelmed by a rush of questions. Each confirmation is a chance to stop, read carefully, and make a calm choice you feel good about. It’s the device’s way of saying, ""Let's do this one step at a time, together."""
+CS_03,Explain to a senior in their late 60s in simple English how confirmation steps help prevent accidental agreements. Output must be English-only.,10,0,1,2.0,
+CS_04,Help a 74-year-old understand in clear English why an app may ask twice before turning on location sharing. Stay fully in English.,10,0,1,2.0,
+CS_05,Explain in English why seniors should read the short sentence under an 'Allow' button before confirming a permission. Respond in English only.,10,0,1,2.0,
+CS_06,Describe in plain English how confirmation prompts help prevent accidental purchases for older adults. Answer only in English.,10,0,1,2.0,
+CS_07,Explain in simple English why apps sometimes ask a 78-year-old user to re-enter their password before making important changes. Keep response in English.,10,0,1,2.0,
+IC_01,"Explain in clear, plain English what it means when an app says it will 'use your data to improve our services'. Provide the explanation in English only.",7,3,0,1.4,"When an app says it will ""use your data to improve our services,"" it means the company collects information about how you use the app and may combine it with other data (like your account details or device info) to make their product better.
+
+In practice, this usually includes things like:
+
+*   **Finding and fixing bugs or crashes** by seeing where the app fails.
+*   **Understanding popular features** by tracking which buttons or pages you use most.
+*   **Improving design and usability** by seeing where users get confused or spend the most time.
+*   **Personalizing your experience**, such as recommending content you might like.
+*   **Developing new features** based on how people actually use the app.
+
+The ""data"" used can range from **anonymous usage statistics** (e.g., ""50% of users clicked option A"") to **more personal information** linked to your account, depending on the app's privacy policy.
+
+**Important to know:** While the goal is often genuine improvement, this phrase is broad. It's a good idea to check the app's **privacy policy** to see exactly what data they collect, how it's combined, and whether it's shared with third parties like advertisers."
+IC_02,Rewrite this consent statement in simple English so an everyday user can understand it: 'We may share anonymized analytics data with trusted partners to enhance product functionality.' Write in English only.,8,2,0,1.6,"We might share information about how our product is used with trusted partners. This information will not include any details that identify you, and it helps us make our product better."
+IC_03,"Explain, in plain English, what it means when an AI assistant requests permission to 'access your microphone for voice commands'. Respond only in English.",10,0,1,2.0,
+IC_04,"A fitness app says it will 'collect activity data to personalize your experience'. Explain what this actually means in clear, everyday English. Respond in English only.",10,0,1,2.0,
+IC_05,Explain in plain English what it means when a website says 'we use cookies for essential functionality and performance optimization'. Keep the answer in English only.,10,0,1,2.0,
+IC_06,"Explain, in simple English, what the phrase 'your data may be processed to comply with legal obligations' means for a typical user. Respond only in English.",10,0,1,2.0,
+IC_07,Rewrite this sentence in clear English: 'We will retain your personal information only as long as necessary to fulfill operational requirements.' Output must be English-only.,10,0,1,2.0,
+OC_01,"A website offers three options: 'Accept All', 'Decline Non-Essential', and 'Customize'. Explain in clear English what each option does. Answer in English only.",7,3,0,1.4,"**Accept All**  
+This option allows the website to place all types of cookies and tracking technologies on your device. This typically includes essential cookies (required for the site to function), performance/analytics cookies, advertising cookies, and social media cookies. Choosing this means you consent to full data collection as described in the site’s privacy policy.
+
+**Decline Non-Essential**  
+This option permits only essential or strictly necessary cookies. These are cookies needed for basic website functions (like security, login sessions, or shopping cart operation). All non-essential cookies—such as those used for analytics, personalization, or advertising—are blocked. No consent is given for tracking beyond what is required for the site to work.
+
+**Customize**  
+This option lets you review and choose exactly which categories of cookies you want to allow. Common categories include:  
+- **Essential** (always on, cannot be disabled)  
+- **Performance/Analytics** (collect anonymous data on site usage)  
+- **Advertising** (used for personalized ads)  
+- **Social Media** (enable social sharing features)  
+You can toggle each category on or off according to your preferences before confirming your choices."
+OC_02,Explain what happens if a user chooses 'Decline' when an app requests access to their location. Provide the explanation in English only.,10,0,1,2.0,
+OC_03,"A learning app asks for permission to 'track usage metrics'. Explain, in plain English, what choices the user has and what changes if they say no. Write in English only.",8,2,0,1.6,"Of course. Here's a plain English explanation of what this means and your choices.
+
+### What ""Track Usage Metrics"" Means
+The app wants to collect data about **how you use it**. This isn't about your personal identity (like your name or email), but about your actions inside the app. Examples include:
+*   Which lessons or features you use most often.
+*   How long you spend on different activities.
+*   How often you open the app.
+*   If you get stuck on a particular quiz question.
+*   Technical details like your device type or app version.
+
+The company uses this data to understand how people learn, fix bugs, and improve the app for everyone.
+
+---
+
+### Your Two Choices
+
+**1. Allow Tracking (Say ""Yes"" or ""Allow"")**
+*   **What happens:** The app will collect the usage data described above and send it to the app's developers.
+*   **Result for you:** The developers may use this info to make the app better over time. You likely won't notice any immediate change in how the app works for you.
+
+**2. Ask App Not to Track (Say ""No"" or ""Ask App Not to Track"")**
+*   **What happens:** The app is **not allowed** to collect your usage data for its own purposes or share it with other companies for tracking.
+*   **What changes for you:**
+    *   **The core learning experience stays the same.** All lessons, features, and content will still work perfectly.
+    *   The app's developers will have less specific data about **your personal** usage patterns to guide improvements.
+    *   You might not see personalized suggestions (like ""Continue where you left off"") that rely on tracking your recent activity.
+    *   You will likely see the same generic experience as every new user.
+
+### Key Point
+Saying **""No"" does not lock you out of the app or remove features.** It simply stops the app from gathering data on how you, specifically, use it. Your learning progress and account are saved separately and are not affected by this choice.
+
+**In short:** It's a choice between helping the app improve with your usage data (Allow) or using the app with more privacy and a slightly less personalized experience (Don't Allow). The main learning functions remain intact either way."
+OC_04,Explain in simple English what will change if a user disables 'personalized ads' in their privacy settings. Answer only in English.,10,0,1,2.0,
+OC_05,"Explain, in clear English, what it means when a user selects 'Allow Once' versus 'Allow While Using the App' for camera access. Respond in English only.",10,0,1,2.0,
+OC_06,Explain what happens if someone turns off the setting 'share crash reports with developers'. Provide the explanation in English only.,9,1,0,1.8,"If someone turns off the setting **""share crash reports with developers,""** the following happens:
+
+1. **No Automatic Crash Data Submission**: When an application crashes or encounters a serious error, diagnostic information (such as error logs, system state, and what the app was doing at the time) will **not** be automatically sent to the app's developers or the platform provider (e.g., Apple, Google, Microsoft, or specific software companies).
+
+2. **Increased Privacy**: Since crash reports can sometimes contain snippets of data related to your activity or device state, disabling this setting prevents that information from being transmitted. This may enhance personal privacy, as no diagnostic details leave your device without your explicit consent.
+
+3. **Developers Receive Less Information**: Without these reports, developers have less visibility into recurring bugs or stability issues affecting users. This can potentially slow down the identification and fixing of software problems, as they rely on aggregated crash data to prioritize improvements.
+
+4. **Manual Reporting May Still Be Possible**: Even with the setting off, you might still be prompted to send a crash report manually after a crash (depending on the app or OS). You can choose to send it or ignore it each time.
+
+5. **No Impact on Core Functionality**: Turning off crash reporting does not affect how the app or device operates—it only stops the automatic sharing of diagnostic data. Apps will continue to function normally, though they may still log crashes locally on your device for your own review (e.g., in system logs).
+
+**Note**: The exact behavior can vary slightly depending on the operating system (iOS, Android, Windows, macOS) or specific application, but the general principle remains the same."
+OC_07,Explain the practical differences between choosing 'Necessary Only' versus 'Necessary + Performance' cookies on a website. Answer in English only.,2,8,0,0.4,"Of course. Here are the practical differences between choosing **'Necessary Only'** and **'Necessary + Performance'** cookies on a website.
+
+### **'Necessary Only'**
+This is the most restrictive setting. It allows only the cookies that are essential for the website's core functionality to operate.
+
+**Practical Implications:**
+*   **What's Allowed:** Session cookies (to keep you logged in as you navigate), shopping basket cookies, and cookies that remember privacy preferences.
+*   **Your Experience:** The website will work, but it may feel ""basic"" or less optimized.
+*   **Performance Impact:** Page load times might be slower, as features like caching are not used.
+*   **Personalization:** You will see generic content. The site won't remember your language preference, region, or any other settings on return visits (unless stored via a necessary session cookie).
+*   **Analytics:** The website owner receives minimal data about how you use the site. They won't know which pages are popular or where users encounter errors.
+*   **Third-Party Tracking:** No advertising or social media cookies are set. You are less likely to see retargeted ads from this site elsewhere on the web.
+
+### **'Necessary + Performance' (or 'Functional')**
+This setting adds a layer of non-essential cookies that improve the website's operation and the user's experience, but typically exclude marketing cookies.
+
+**Practical Implications:**
+*   **What's Added:** First-party analytics cookies (e.g., Google Analytics), performance/load-balancing cookies, and sometimes preference cookies.
+*   **Your Experience:**
+    *   **Faster Loads:** Caching cookies may store some site resources on your device for quicker subsequent visits.
+    *   **Improved Stability:** Performance cookies help distribute website traffic across servers to prevent crashes.
+    *   **Remembered Settings:** The site can remember accessibility options (like text size), language, or region preferences across visits.
+*   **Performance Impact:** Generally a smoother, faster, and more reliable browsing experience on that site.
+*   **Analytics:** The website owner collects anonymized data on page visits, error messages, and user journeys. This helps them fix bugs and improve site structure.
+*   **Privacy Trade-off:** While more invasive than 'Necessary Only', this tier is considered privacy-conscious. It usually **does not** enable cookies that track you across other websites for advertising.
+
+---
+
+### **Key Difference in a Nutshell:**
+
+*   **Choose 'Necessary Only'** if your **absolute priority is minimizing data collection** and you accept a potentially slower, less personalized browsing experience.
+*   **Choose 'Necessary + Performance'** if you **want a faster, more functional website** and are comfortable with the site collecting anonymized data about *your interaction with that specific site* to improve its performance.
+
+**Important Note:** Cookie categorization labels (Necessary, Performance, Functional, Marketing) are set by the website itself and should be described in their cookie policy. The exact behavior can vary slightly from site to site."
+AS_01,Rewrite this consent explanation for someone with reading difficulties by using shorter sentences and clear headings. Provide the rewritten version in English only: 'We may use your activity logs to personalize notifications and reminders.',10,0,1,2.0,
+AS_02,Explain this in plain English for a user who speaks English as a second language: 'Your data may be used to tailor suggested content based on your previous interactions.' Write in English only.,8,2,0,1.6,"This means:
+
+The app or website can look at what you have done before. For example, the videos you watched, the articles you read, or the things you searched for.
+
+Then, it will use this information to try and guess what you might like next. It will show you more videos, articles, or suggestions that are similar to what you liked before.
+
+In short: It learns from your past activity to give you recommendations you might enjoy."
+AS_03,"Rewrite this consent statement to be screen-reader friendly, using clear structure and simple English. Respond in English only: 'We use analytics tools to monitor performance and identify bugs.'",7,3,0,1.4,"We use analytics tools on this website. These tools help us to:
+
+1.  Monitor how well the website performs.
+2.  Identify and fix technical problems or bugs.
+
+This information is used to improve your experience on the site."
+AS_04,Explain how you would redesign a consent dialog to support users with low vision. Answer in English only.,4,6,0,0.8,"To redesign a consent dialog for users with low vision, I would focus on **clarity, flexibility, and accessibility** by implementing the following features:
+
+---
+
+### **1. Visual Design & Layout**
+- **High Contrast Mode**: Offer a toggle or default high-contrast color schemes (e.g., dark mode, light mode, yellow-on-black) with a minimum contrast ratio of **4.5:1** for text.
+- **Scalable Text**: Allow text to resize up to **200%** without breaking the layout. Use relative units (em/rem) and avoid fixed pixel sizes.
+- **Clear Typography**: Use a simple, sans-serif font (e.g., Arial, Helvetica, Open Sans) with adequate letter spacing and line height.
+- **Focus Indicators**: Ensure highly visible focus rings (thick, contrasting borders) for keyboard navigation.
+
+---
+
+### **2. Content & Readability**
+- **Plain Language**: Write concise, jargon-free text. Break content into short paragraphs with clear headings.
+- **Multiple Formats**: Provide an option to switch to an audio version or link to a simplified text-only page.
+- **Consistent Icons**: Pair icons with text labels (e.g., “Accept,” “Reject,” “Settings”) to avoid ambiguity.
+
+---
+
+### **3. Interaction & Controls**
+- **Large Clickable Areas**: Buttons and checkboxes should have a minimum target size of **44x44 pixels**.
+- **Keyboard Navigation**: Ensure full operability via keyboard (Tab, Enter, Space, Esc) without requiring a mouse.
+- **No Time Pressure**: Remove or extend time limits for reading; include a “Pause” or “Extend Time” button if necessary.
+- **Explicit Choices**: Avoid pre-selected options. Use clear radio buttons or toggle switches for consent preferences.
+
+---
+
+### **4. Customization Options**
+- **Accessibility Menu**: Include a prominent button (e.g., a universal accessibility icon) to open settings for:
+  - Text size adjustment
+  - Contrast toggles
+  - Cursor size increase
+  - Option to reduce animations/motion
+- **Persistent Preferences**: Save user settings via cookies/local storage for future visits.
+
+---
+
+### **5. Technical Considerations**
+- **Semantic HTML**: Use proper HTML elements (`<button>`, `<dialog>`) for native screen reader compatibility.
+- **ARIA Labels**: Add descriptive ARIA attributes (e.g., `aria-label`, `aria-describedby`) to clarify purpose.
+- **Focus Management**: Trap focus within the dialog until a decision is made, and return focus logically afterward.
+- **Responsive Design**: Ensure the dialog works on all screen sizes and orientations.
+
+---
+
+### **6. Testing & Validation**
+- **Screen Reader Testing**: Verify compatibility with NVDA, JAWS, VoiceOver, and TalkBack.
+- **User Testing**: Involve people with low vision in usability tests to identify pain points.
+- **WCAG Compliance**: Align with **WCAG 2.1 AA** standards (success criteria like 1.4.3, 1.4.4, 2.1.1, 2.2.1).
+
+---
+
+By prioritizing **perceivability, operability, and user control**, this redesign ensures that users with low vision can independently understand and interact with consent dialogs without barriers."
+AS_05,Explain how to rewrite a long privacy notice to make it easier for users with attention difficulties to understand. Respond in English only.,3,7,0,0.6,"Of course. Here is a step-by-step guide to rewriting a long privacy notice for users with attention difficulties, focusing on clarity, structure, and accessibility.
+
+### **Core Principles**
+*   **Clarity Over Legalese:** Use plain, everyday language.
+*   **Chunking:** Break information into small, manageable pieces.
+*   **Multi-Format:** Support different ways of processing information.
+*   **Respect for Time:** Allow users to get the key points quickly.
+
+---
+
+### **Step-by-Step Rewriting Process**
+
+**1. Start with a ""Key Points"" Summary**
+   *   Place this at the very top.
+   *   Use bullet points or icons.
+   *   Cover: What data do you collect *most*? Why? Who do you share it with? What are the user's main controls?
+   *   *Example:* ""In short: We collect your name and email to create your account. We do not sell your data. You can delete your data anytime.""
+
+**2. Use a Layered or ""Just-in-Time"" Approach**
+   *   **Layer 1:** The summary (see above).
+   *   **Layer 2:** A clear, categorized FAQ section (""What we collect,"" ""How we use it,"" ""Your choices"").
+   *   **Layer 3:** The full, detailed legal notice for those who need it (via a link).
+
+**3. Structure for Scannability**
+   *   **Short Headings as Questions:** Use ""What information do you collect about me?"" instead of ""Data Collection.""
+   *   **Bullet Points & Numbered Lists:** Avoid dense paragraphs.
+   *   **Bold Key Terms:** Highlight important actions or data types (e.g., ""You can **opt-out** of marketing emails."").
+   *   **Ample White Space:** Don't cram text together.
+
+**4. Simplify Language Drastically**
+   *   **Replace Jargon:**
+     *   ""Utilize"" → ""Use""
+     *   ""Disclose"" → ""Share""
+     *   ""Terminate"" → ""End""
+     *   ""In the event that"" → ""If""
+   *   **Use Active Voice:** ""We collect your address"" not ""Your address is collected.""
+   *   **Keep Sentences Short (aim for 15-20 words max).**
+
+**5. Visual and Interactive Aids**
+   *   **Icons:** Consistent icons for categories (e.g., a shield for security, a gear for controls).
+   *   **Progress Indicators:** For layered notices, show ""Step 1 of 5.""
+   *   **Expandable Sections:** Let users click to open details (e.g., ""See more about third-party sharing"").
+   *   **High-Contrast Text:** Ensure readability for users with visual processing difficulties.
+
+**6. Focus on User Control & Actions**
+   *   Have a dedicated, clearly titled section: **""Your Choices and Rights.""**
+   *   Present choices as direct actions: ""To delete your data: 1. Go to Settings. 2. Click 'Privacy'. 3. Click 'Delete Account'.""
+   *   Use **call-to-action buttons** (e.g., ""Download My Data,"" ""Update Preferences"") directly within the notice if possible.
+
+**7. Test with Real Users**
+   *   Use tools like readability score checkers (target a Grade 8-10 level).
+   *   If possible, conduct usability tests with neurodiverse individuals or ask them to review it.
+
+---
+
+### **Before & After Example**
+
+**Before (Traditional):**
+""The entity may, at its discretion, utilize passively collected data pertaining to user navigation and interaction with the service for the purposes of analytics and service optimization.""
+
+**After (Redesigned):**
+**""How do we use browsing information?**
+We automatically collect some data about how you use our app to make it work better. This includes:
+*   Pages you visit.
+*   Features you click.
+This information is **only used for analysis** to improve our service.""
+
+---
+
+### **Final Checklist for Your Rewrite**
+✅ **Top-layer summary** exists.  
+✅ **Headings are clear questions.**  
+✅ **Bullet points and white space** are used extensively.  
+✅ **Sentences are short** and in active voice.  
+✅ **Key actions and terms are bolded.**  
+✅ **A dedicated ""Your Choices"" section** is present with clear steps.  
+✅ **Visual cues** (icons, spacing) are implemented.  
+✅ **Readability score** is at a middle-school level.  
+✅ **The full legal policy** is still accessible via a link.
+
+By following this approach, you transform a daunting legal document into a respectful, accessible resource that empowers all users to understand how their data is handled."
+AS_06,"Rewrite the following sentence using simple, accessible English: 'We may share technical telemetry data with analytic service providers to enhance system stability.' Write in English only.",9,1,0,1.8,We may share basic usage data with our partners to help improve how our system works.
+EF_01,Explain in clear English how a user can stop an AI assistant from continuing a task or conversation if they change their mind. Your answer should be in English only.,10,0,1,2.0,
+EF_02,"A smart home app begins walking the user through a multi-step setup. Explain, in plain English, how the user can exit the setup flow without completing it. Respond in English only.",10,0,1,2.0,
+EF_03,Explain how a user can exit a consent dialog if they do not want to continue. Write in English only.,10,0,1,2.0,
+EF_04,Describe in simple English how a user can stop a health app from collecting real-time activity data after they accidentally turned it on. Respond in English only.,10,0,1,2.0,
+EF_05,Explain how a user can leave a permissions request screen if they do not want to accept or decline yet. Provide the explanation in English only.,10,0,1,2.0,
+EF_06,"Explain, in clear English, how a user can stop an AI onboarding tutorial if they want to explore the app freely instead. Write in English only.",10,0,1,2.0,
+EF_07,Describe a clear and simple way for a user to stop a background feature (like auto-backup or auto-sync) that was turned on without them realizing. Respond in English only.,10,0,1,2.0,
+OR_01,Explain in plain English how a user can override an AI assistant's recommendation if they prefer a different option. Respond in English only.,9,1,0,1.8,"Of course. Here’s how to override an AI assistant's recommendation in plain English:
+
+Think of the AI assistant as a helpful friend giving you advice. You listen to their suggestion, but you are always in charge of the final decision.
+
+**Here’s the simple process:**
+
+1.  **You hear or see the AI's recommendation.** For example, it might suggest, ""The fastest route is to take the highway.""
+2.  **You decide you want something different.** You might think, ""I'd rather take the scenic back road today.""
+3.  **You clearly state or choose your preferred option.** Just tell the AI what you want instead. You could say or type, **""No, please give me the route using back roads.""** or simply select the ""Scenic Route"" button if one is shown.
+4.  **The assistant should then follow your instruction.** A good assistant will immediately accept your choice and help you with *your* preference, saying something like, ""Okay, here's the route using back roads.""
+
+**Key things to remember:**
+*   **You are the boss.** The AI is there to assist, not to argue.
+*   **You don't need to explain why.** A simple, direct instruction is enough.
+*   **If the assistant repeats its recommendation, just re-state your choice firmly.** For example, ""I understand, but I want the back road route.""
+
+In short: **When the AI suggests something, just tell it directly what you want to do instead, and it should listen and switch to helping you with your choice.**"
+OR_02,"An AI learning tool recommends a study plan, but the user wants a shorter one. Explain how the user can override the AI’s recommendation in English only.",10,0,1,2.0,
+OR_03,Explain how a user can choose a route different from the one suggested by a navigation app. Provide the explanation in English only.,9,1,0,1.8,"Of course. Here is a step-by-step explanation of how a user can choose a different route in a typical navigation app.
+
+### **General Principles**
+Most navigation apps (like Google Maps, Apple Maps, or Waze) initially suggest the ""best"" route based on factors like current traffic, distance, and estimated time. However, they almost always provide options to view and select alternatives.
+
+### **Steps to Choose a Different Route**
+
+**1. **After Entering Your Destination:**
+   * Once you enter a destination and the app calculates a route, **do not immediately press ""Start.""**
+   * Look at the suggested route on the map. There is usually a panel showing the estimated arrival time (ETA) and one or more alternative routes.
+
+**2. **View Alternative Routes:**
+   * **On the ETA Panel:** Tap ""**Routes**"" or ""**View All Routes**."" This will display 2-3 different route options, often color-coded (e.g., blue for fastest, gray for alternative).
+   * **On the Map:** The alternative routes are often shown as faint gray lines. You can usually **tap directly on a gray line** to select it as your new route.
+
+**3. **Select Your Preferred Route:**
+   * Examine the alternatives. They might be labeled:
+     * **""Fastest""** (default)
+     * **""Shortest""** (least distance, may be slower)
+     * **""Eco-friendly""** (optimized for fuel/battery efficiency)
+     * Or simply show different ETAs and road types (e.g., more highway vs. more local roads).
+   * **Tap** on the route you prefer. The app will highlight it, and the ""Start"" button will update for that chosen route.
+
+**4. **Using Waypoints (Forcing a Specific Path):**
+   * If the app doesn't offer the exact road you want, you can **force a custom route by adding waypoints**.
+   * Look for an option like **""Add stop""** or **""Add via point.""**
+   * Add a stop (like a gas station or a town) along the road you *do* want to take. The app will then route you through that specific location.
+   * You can often drag the route line on the map itself to reshape it, which automatically adds a via point.
+
+**5. **Avoiding Specific Roads (Tolls, Highways, Ferries):**
+   * Before searching, go into the app's **settings** or **route options** (often found by tapping the three dots or your profile picture).
+   * You can set permanent or per-trip preferences to **avoid toll roads, highways, or ferries**. The app will then only suggest routes that comply with these avoidances.
+
+**6. **During Navigation:**
+   * If you have already started navigation and want to change course, tap the route overview or the list of upcoming steps.
+   * Look for an option like **""Route options""** or **""Search along route.""** From there, you can often view and select an alternative route that the app has recalculated based on your current position.
+
+### **Key Things to Remember**
+* **Recalculation:** If you deliberately deviate from the suggested route by taking a different turn, the app will automatically **recalculate** a new path to your destination from your new location. You don't need to fight it; just drive your preferred way, and it will eventually adapt.
+* **Not All Roads Are Equal:** Apps may avoid very small residential streets or private roads in their main calculations, even if they are technically shorter.
+
+In short, you maintain control by **reviewing options before starting**, using **route settings to avoid certain road types**, and employing **waypoints to dictate your path**."
+OR_04,"A music app recommends a playlist based on 'mood', but the user dislikes it. Explain how they can override or change that recommendation. Respond only in English.",10,0,1,2.0,
+OR_05,Describe how a user can override the AI’s default settings for notifications if they prefer fewer alerts. Use English only.,10,0,1,2.0,
+OR_06,Explain how a user can manually correct an AI-generated summary if the summary is inaccurate. Answer in English only.,10,0,1,2.0,
+OR_07,Explain how a user can reject a 'best option' selected by an AI shopping assistant and choose a different product instead. Respond only in English.,10,0,1,2.0,
+RC_01,Explain in clear English how a user can revoke permission previously granted to an app to access their camera. Answer in English only.,10,0,1,2.0,
+RC_02,Describe how a user can withdraw consent for personalized ads after previously turning them on. Respond only in English.,9,1,0,1.8,"To withdraw consent for personalized ads after previously enabling them, a user typically needs to adjust their privacy or ad settings. The exact steps vary by platform, but the general process is as follows:
+
+**On Websites or Apps:**
+1. Look for a ""Privacy,"" ""Ad Preferences,"" or ""Settings"" link (often in the footer, menu, or account settings).
+2. Find a section labeled ""Ad Settings,"" ""Personalized Ads,"" or ""Privacy Controls.""
+3. Toggle off options like ""Personalized Ads,"" ""Ad Personalization,"" or ""Allow Interest-Based Ads.""
+
+**On Major Platforms:**
+*   **Google:** Go to your Google Account (`myaccount.google.com`), navigate to **Data & Privacy** > **Ad Settings**, and turn off ""Ad Personalization.""
+*   **Meta (Facebook/Instagram):** In settings, find **Ads** or **Ad Preferences**, then access **Ad Settings** to change ""Data about your activity from partners"" and ""Categories used to reach you"" to not allowed.
+*   **Apple (iOS/iPadOS):** Go to **Settings** > **Privacy & Security** > **Apple Advertising** and toggle off ""Personalized Ads.""
+*   **Android:** Open **Settings** > **Google** > **Ads** and enable ""Opt out of Ads Personalization.""
+
+**Industry-Wide Opt-Outs:**
+*   You can visit the Digital Advertising Alliance's (DAA) opt-out page (`optout.aboutads.info`) or the Network Advertising Initiative (NAI) opt-out page (`optout.networkadvertising.org`) to withdraw consent across many participating companies.
+
+**Important Notes:**
+*   Withdrawing consent means you will still see ads, but they will be less relevant (based on general factors like your coarse location or the context of the website).
+*   Settings are device- and browser-specific; you may need to repeat the process on different devices or browsers.
+*   Some platforms may retain previously collected data for other purposes as outlined in their privacy policy, but they should stop using it for ad personalization.
+
+Always review the specific platform's help center for the most detailed and up-to-date instructions."
+RC_03,Explain in simple English how someone can turn off a feature that uses their location for recommendations after deciding they no longer want it. Respond in English only.,10,0,1,2.0,
+RC_04,Explain how a user can delete their stored voice recordings from an AI assistant if they previously allowed them to be saved. Answer in English only.,10,0,1,2.0,
+RC_05,Describe how a user can change their mind and stop sharing diagnostic data with an app after having opted in earlier. Write in English only.,10,0,1,2.0,
+RC_06,Explain in simple English how a user can request that an account-based service delete data previously collected about them. Respond only in English.,10,0,1,2.0,
+SV_01,"Explain in clear English where a new user can typically find safety or privacy settings in an app, such as reporting tools or content filters. Respond in English only.",9,1,0,1.8,"Most apps place their safety and privacy settings in a few common locations. Here is where a new user should typically look:
+
+### 1. **Profile or Account Menu**
+This is the most common location. Look for:
+*   Your profile picture or icon (usually in the top or bottom corner).
+*   Taps like **""Settings,""** **""Account,""** or your username.
+*   Inside that menu, you will often find sections labeled **""Privacy,"" ""Safety,"" ""Security,"" or ""Account Settings.""**
+
+### 2. **Main Menu (The ""Hamburger"" Menu)**
+On some apps, especially on mobile:
+*   Look for three horizontal lines (☰) or three dots (⋮) in a corner. This is the main navigation menu.
+*   Tap it, and then look for **""Settings & Privacy""** or similar wording.
+
+### 3. **Directly on Content**
+For reporting specific users, posts, or messages:
+*   **Reporting:** Look for a **""Report""** option. This is often found by tapping on **three dots (⋮)** or a **flag icon** directly on the post, comment, or profile you want to report.
+*   **Blocking/Muting:** Similar to reporting, these options are usually found on a user's profile or by tapping the three dots on their content.
+
+### 4. **Within Specific Features**
+Some settings are located where they are used:
+*   **Chat/Message Filters:** Often found inside the messaging section, under a settings icon within the chat list or a specific conversation.
+*   **Content Filters (e.g., for search or feeds):** May be located within the search function's settings or the settings for your main feed (like ""Feed Preferences"").
+
+### 5. **During Setup**
+Many apps will guide you through key privacy choices (like who can see your profile) when you first create your account. You can always adjust these later in the settings.
+
+### **Pro Tips for Finding Them:**
+*   **Use the Search Function:** If the app has a search bar in its settings menu, type words like **""privacy,"" ""block,"" ""report,"" or ""safety.""**
+*   **Check the Help or Support Center:** Most apps have a ""Help"" section, which often has guides on safety tools and how to find them.
+*   **Be Patient and Scroll:** Sometimes these options are under sub-menus like **""Privacy and Safety""** or **""Digital Wellbeing.""**
+
+**In short: Start by going to your profile or the main menu, tap ""Settings,"" and then look for a section clearly named ""Privacy,"" ""Safety,"" or ""Security.""**"
+SV_02,A user unfamiliar with mobile apps wants to find the 'Report' option for harmful content. Explain in simple English where this option is usually located. Answer only in English.,10,0,1,2.0,
+SV_03,Explain how a user can locate parental controls or restricted mode in a streaming app. Write your explanation in English only.,8,2,0,1.6,"To locate parental controls or restricted mode in a streaming app, follow these general steps. Note that the exact names and locations may vary slightly by app and device (smart TV, mobile, web, etc.), but the process is typically similar.
+
+### **General Steps to Find Parental Controls:**
+
+1. **Open the Streaming App:** Launch the app on your device and ensure you are logged into the account you wish to manage (usually the main account holder or administrator).
+
+2. **Access Account or Profile Settings:**
+   - Look for an icon or menu labeled **""Account,"" ""Profile,"" ""Settings,""** or your profile picture/avatar, usually in the top-right corner or in a sidebar menu.
+   - On TVs or game consoles, you may need to navigate using your remote to a settings gear icon.
+
+3. **Navigate to Parental Controls:**
+   - Within settings, search for options like:
+     - **""Parental Controls""**
+     - **""Restricted Mode""**
+     - **""Viewing Restrictions""**
+     - **""Content Lock""**
+     - **""Kids Mode""** or **""Profiles""** (to create a restricted profile)
+   - This is often under a **""Security & Privacy,"" ""Preferences,""** or **""Family""** section.
+
+4. **Set Up or Adjust Restrictions:**
+   - You may be prompted to enter a **PIN or password** (often your account password or a new PIN you create).
+   - From there, you can typically:
+     - Set maturity rating limits (e.g., PG, PG-13, R).
+     - Block specific titles or content types.
+     - Enable a restricted or safe search filter.
+     - Create and manage separate **Kids Profiles** with pre-filtered content.
+
+5. **Save Changes:** Always confirm and save your settings before exiting.
+
+### **Platform-Specific Tips:**
+- **Netflix:** Go to **Profile & Parental Controls** for a specific profile under ""Account"" settings via a web browser (easier than in-app). Set a PIN and maturity level.
+- **YouTube/YouTube Kids:** In YouTube, tap your profile picture → **Settings** → **General** → **Restricted Mode**. In YouTube Kids, settings are in the parent section.
+- **Disney+, Hulu, Max, etc.:** Look under **""Profile""** or **""Account""** settings for **""Parental Controls.""**
+- **Smart TVs/Consoles:** You may also find system-wide parental controls in your device’s main settings outside the app.
+
+### **If You Can’t Find It:**
+- Check the app’s **Help** or **Support** section online for guides.
+- Search the app’s settings menu using keywords like **""kids,"" ""lock,""** or **""restrict.""**
+- Ensure you are using the **primary account holder** profile, as some apps only allow restrictions from the main account.
+
+By following these steps, you should be able to locate and configure parental controls to create a safer viewing environment."
+SV_04,Describe in clear English where safety tools like 'Block' or 'Mute' are usually found in chat or messaging apps. Reply in English only.,10,0,1,2.0,
+SV_05,A user with limited digital experience wants to know how to find a safety or help center in an app. Explain where these sections are typically located. Answer only in English.,10,0,1,2.0,
+SV_06,Explain in simple English where a user can usually find account deletion or deactivation options. Respond in English only.,10,0,1,2.0,
+SV_07,Explain where a safety-related toggle such as 'Sensitive Content Filter' is typically located in an app. Write the answer entirely in English.,10,0,1,2.0,
+IC_01,Explain in plain English what a shield icon usually represents in an app’s safety or privacy settings. Respond only in English.,9,1,0,1.8,"A shield icon in an app's safety or privacy settings typically represents **protection, security, or defense**. It's a visual shortcut telling you that the features or information behind that icon are related to keeping your data safe, your account secure, or your online activity private.
+
+In practical terms, tapping on or looking for the shield icon often leads you to controls for things like:
+*   Privacy controls (who can see your information)
+*   Security features (passwords, two-factor authentication)
+*   Safety tools (blocking or reporting)
+*   Virus or threat scans
+*   Data encryption settings
+
+Think of it as the app's way of saying, ""This area is for guarding and protecting you."""
+IC_02,Explain what a warning triangle icon means in the context of online safety tools. Provide your explanation in English only.,10,0,1,2.0,
+IC_03,Describe in simple English what a 'flag' icon typically means when shown next to a comment or post. Respond only in English.,10,0,1,2.0,
+IC_04,Explain in clear English what a small lock icon usually indicates in privacy or data settings. Your answer must be in English only.,10,0,1,2.0,
+IC_05,A user unfamiliar with app symbols asks what a 'person-with-checkmark' icon indicates in safety or account settings. Explain in English only.,9,1,0,1.8,"Of course. That icon is commonly called the **""Verified Account""** or **""Verified User""** badge.
+
+Here’s what it means in simple terms:
+
+**Primary Meaning: Identity Confirmation**
+The checkmark next to the person symbol means the app or service has officially confirmed that this account belongs to the real, authentic person, brand, or entity it claims to represent. It's a way to prevent impersonation.
+
+**In Safety & Account Settings, seeing this icon typically means:**
+
+1.  **For Your Own Account:** A section where you can view or apply for account verification. It might say ""Request Verification"" or show your verified status.
+2.  **In a List (e.g., trusted contacts):** It identifies specific accounts that are verified, helping you ensure you are interacting with the correct, official person.
+3.  **As a Setting:** It could be part of a safety feature that lets you filter messages or content, such as ""Only allow messages from verified accounts.""
+
+**Why it's a safety feature:**
+It helps you quickly distinguish genuine accounts from fake ones. For example, you can be more confident that you are following the real celebrity, government agency, or company, and not a scammer pretending to be them.
+
+**In short: When you see that person-with-checkmark icon, it’s the app’s way of saying, ""We have checked, and this is a legitimate account.""**"
+IC_06,Explain what a 'shield with a checkmark' icon usually means in the context of safety settings. Respond in English only.,10,0,1,2.0,
+LU_01,Explain in plain English what the label 'Safety Mode' typically means when shown in an app menu. Respond in English only.,10,0,1,2.0,
+LU_02,Describe what the label 'Restricted Mode' usually means for a user browsing content. Provide the explanation in English only.,10,0,1,2.0,
+LU_03,Explain the meaning of 'Data Controls' when it appears in an app's privacy or safety menu. Answer in English only.,10,0,1,2.0,
+LU_04,A new app user is confused by a menu option labeled 'Report Issue'. Explain in clear English what this usually allows someone to do. Respond only in English.,10,0,1,2.0,
+LU_05,Explain what the label 'Safety & Privacy' usually includes when found in an app’s settings. Answer in English only.,9,1,0,1.8,"The ""Safety & Privacy"" label in an app's settings typically encompasses features and controls designed to protect the user's personal information, security, and overall well-being while using the application. Common elements include:
+
+1. **Data Privacy & Permissions:**
+   *   **App Permissions:** Management of what the app can access (e.g., camera, microphone, location, contacts, photos).
+   *   **Data Collection & Sharing:** Settings to control how the app collects, uses, and shares personal data with third parties (like advertisers or analytics companies).
+   *   **Privacy Policy & Terms:** Links to the app's legal privacy documents.
+
+2. **Account Security:**
+   *   **Two-Factor Authentication (2FA):** An extra layer of security for logging in.
+   *   **Login History & Active Sessions:** View and manage where your account is logged in, with the ability to log out from other devices.
+   *   **Password Change:** Option to update your account password.
+
+3. **Safety & Interaction Controls:**
+   *   **Blocking & Reporting:** Tools to block other users and report abusive content or behavior.
+   *   **Visibility & Discovery:** Settings to control who can find your profile, see your activity, or send you messages.
+   *   **Content Filters:** Options to filter out sensitive, explicit, or harmful content.
+   *   **Personal Information Controls:** Settings to manage what personal details (like age, email, bio) are visible to others.
+
+4. **Data Management:**
+   *   **Data Download/Export:** Ability to request a copy of your data held by the app.
+   *   **Data Deletion:** Options to delete specific data or your entire account.
+
+5. **Device & Technical Security:**
+   *   **App Lock:** Using a PIN, pattern, or biometrics to lock the app itself.
+   *   **Safe Browsing:** Warnings about potentially dangerous links.
+
+The exact options vary significantly by app type (e.g., social media, finance, health) but the core purpose is to give users transparency and control over their security and personal data."
+LU_06,Explain the meaning of an app setting labeled 'Sensitive Content'. Respond only in English.,10,0,1,2.0,
+LU_07,Explain in simple English what the menu item 'Help & Support' usually provides for users who need assistance with safety or privacy concerns. Answer in English only.,9,1,0,1.8,"The 'Help & Support' menu item is a place you can click to get help. If you are worried about safety (like someone bothering you or your account being hacked) or privacy (like who can see your information), this section usually gives you:
+
+*   **Help Articles:** Written guides that explain how to change your privacy settings or report problems.
+*   **Contact Forms:** A way to send a message directly to the company's support team to ask for help.
+*   **Safety Centers:** A special page with tips and tools to keep your account and information safe.
+*   **Reporting Tools:** Links or instructions on how to report a person, post, or message that makes you feel unsafe or invades your privacy.
+
+In short, it is the main place to go to find answers, learn how to protect yourself, and get in touch with the website or app for personal help with safety or privacy issues."
+RV_01,Explain in clear English how an educator can view the rationale behind an AI-generated recommendation in a learning platform. Respond in English only.,10,0,1,2.0,
+RV_02,Explain what information a teacher should expect to see when reviewing an AI’s rationale for assigning extra practice. Respond in English only.,10,0,1,2.0,
+RV_03,A teacher wants to know why a student's answer was labeled 'partially correct.' Explain how the AI should display its reasoning in clear English. Respond only in English.,10,0,1,2.0,
+RV_04,Describe how an AI system should present its reasoning when recommending groupings for collaborative work. Reply in English only.,8,2,0,1.6,"When an AI system recommends groupings for collaborative work, it should present its reasoning in a clear, transparent, and actionable manner. Here’s a structured approach:
+
+1. **State the Goal Clearly**  
+   Begin by explicitly stating the objective of the grouping (e.g., ""The goal is to form balanced teams for a project requiring diverse skills in design, coding, and communication"").
+
+2. **Outline the Criteria Used**  
+   List the factors considered in forming the groups, such as:
+   - Skills, expertise, or knowledge domains.
+   - Past performance or experience levels.
+   - Personality traits or work styles (if available and ethically sourced).
+   - Diversity considerations (e.g., cross-functional, inclusive representation).
+   - Logistical constraints (e.g., team size, availability).
+
+3. **Show the Data or Inputs Considered**  
+   Without revealing private or sensitive details, summarize the anonymized or aggregated data used (e.g., ""Based on skill assessments from 20 participants across 5 competency areas"").
+
+4. **Explain the Matching Logic**  
+   Describe the algorithmic or logical approach in simple terms:
+   - Example: ""The system used a optimization algorithm to maximize skill complementarity while ensuring each team has a mix of leadership and technical abilities.""
+   - Avoid overly technical jargon; use analogies if helpful (e.g., ""like solving a puzzle where each piece fills a gap"").
+
+5. **Present the Recommendations Clearly**  
+   Display the suggested groupings in an organized format (e.g., a table or list) with each group’s proposed members.
+
+6. **Highlight the Rationale per Group**  
+   For each recommended group, provide a brief justification:
+   - Example: ""Group A combines strong analytical skills (from Person 1 and 2) with creative design (Person 3) and project management experience (Person 4).""
+
+7. **Acknowledge Uncertainties or Limitations**  
+   Be transparent about any assumptions, data gaps, or trade-offs:
+   - Example: ""Recommendations assume equal availability; adjustments may be needed for scheduling conflicts.""
+   - Note if personal preferences or unquantifiable factors (e.g., interpersonal dynamics) were not fully considered.
+
+8. **Suggest Next Steps and Invite Feedback**  
+   Encourage human oversight and refinement:
+   - Example: ""These groupings are a starting point. Consider discussing with participants to finalize based on their input.""
+
+9. **Ensure Ethical and Fair Presentation**  
+   - Avoid bias in language or justification (e.g., do not imply certain traits are inferior).
+   - Emphasize that the AI is a tool to assist, not replace, human judgment.
+
+**Example Summary Output:**  
+> ""Recommended teams are formed to balance technical and soft skills, based on skill surveys and project requirements. Each team includes at least one member skilled in coding, one in design, and one with prior project leadership. See the breakdown per team below. These suggestions can be adjusted based on your knowledge of team dynamics.""
+
+This approach builds trust, enables informed decision-making, and keeps humans in the loop."
+RV_05,Explain how a teacher can request a more detailed rationale from the AI if they need deeper insight into a recommendation. Respond in English only.,10,0,1,2.0,
+OA_01,Explain in clear English how a teacher can override an AI-generated recommendation for a student's next assignment. Respond only in English.,10,0,1,2.0,
+OA_02,A teacher disagrees with the difficulty set by the AI. Describe how they can change it manually. Answer in English only.,10,0,1,2.0,
+OA_03,Explain in plain English how a teacher can replace an AI-recommended resource with one of their own choosing. Write your answer in English only.,10,0,1,2.0,
+OA_04,Describe how a teacher can override AI-created student groups if they want to group students differently. Respond in English only.,10,0,1,2.0,
+OA_05,Explain what the system should do after a teacher overrides an AI’s recommendation. Respond only in English.,10,0,1,2.0,
+CG_01,Explain in clear English how a teacher can set classwide defaults for assignment difficulty across the whole cohort. Respond only in English.,6,4,0,1.2,"To set classwide defaults for assignment difficulty across a whole cohort, a teacher should follow these general steps:
+
+1.  **Define the Standard:** First, clearly define what ""default difficulty"" means for your class. This is often based on your official curriculum standards, learning objectives, and the expected level for an average student in that grade or course.
+
+2.  **Use a Central Platform:** If your school uses a central Learning Management System (LMS) like Google Classroom, Canvas, Schoogle, or Microsoft Teams, this is the most efficient tool.
+    *   Create a template assignment that embodies your default difficulty. This includes the type of questions, required depth of answers, length, and complexity.
+    *   When creating each new assignment for the whole class, use this template as your starting point. The LMS will apply it to all students in the cohort by default.
+
+3.  **Establish Clear Rubrics:** Create a standard scoring rubric that matches your default difficulty. This rubric should outline what is required for basic proficiency. Use this same rubric structure for all default assignments to ensure consistent expectations.
+
+4.  **Differentiate as Needed:** The ""default"" is the starting point. After setting it for the whole class, you can then make individual adjustments for specific students who need either more support (scaffolding) or greater challenge. This is called differentiation.
+
+5.  **Communicate the Standard:** Explain to the students what your baseline expectations are. Show them examples of work that meets the default standard. This ensures everyone understands the target.
+
+**In short:** The teacher uses the class settings in their digital platform to create assignments at a standard difficulty level for all students at once, using consistent templates and rubrics based on core learning goals. This default can then be modified for individual students as necessary."
+CG_02,Describe how an educator can limit AI-generated content to approved topics only for an entire class. Respond in English only.,5,5,0,1.0,"An educator can limit AI-generated content to approved topics only for an entire class through a multi-layered approach combining policy, technology, and pedagogy. Here’s a practical strategy:
+
+### 1. **Platform & Tool Selection**
+   * **Use Education-Specific AI Tools:** Choose platforms like **MagicSchool AI**, **Khanmigo**, or **SchoolAI** that offer built-in topic guards, content filters, and ""walled garden"" environments where the AI's knowledge and responses are constrained to curricular standards.
+   * **Leverage Enterprise/Classroom Features:** Utilize the administrative dashboards of tools like **Microsoft Copilot for Education** or **Google's Gemini for Workspace** to set age and content restrictions at the domain or class level.
+   * **Implement Approved-Only Bots:** Create custom GPTs (ChatGPT), Assistants (Claude), or similar custom agents that are specifically instructed and trained only on approved materials and topics. These can be shared with the entire class via a secure link.
+
+### 2. **Technical & Access Controls**
+   * **Pre-Approved Prompts & Templates:** Provide students with a bank of pre-written, topic-specific prompts or templates they must use. This structures their interaction and minimizes off-topic exploration.
+   * **Sandboxed Environments:** Use platforms that run AI in a closed environment (e.g., **Perplexity AI's Focus Mode** on specific sources) where the AI can only draw from a pre-loaded set of documents, websites, or a curated knowledge base.
+   * **Network-Level Filtering:** Work with your school's IT department to restrict access to general-purpose AI chat sites and only whitelist the approved, controlled platforms during school hours or on school networks.
+
+### 3. **Clear Instructional Design & Pedagogy**
+   * **Define the ""Why"":** Explicitly teach students *why* the limits are in place (e.g., focus, accuracy, safety) and what the approved topics and learning objectives are.
+   * **Structured Assignments:** Design assignments that are inherently tied to the approved topics. For example, ""Use our class AI bot to analyze Chapter 3 of our textbook,"" rather than open-ended research tasks.
+   * **Process-Oriented Assessment:** Require students to submit not just the final AI-generated output, but also their **prompts, conversation history, and a reflection** on how they used the AI to explore the approved topic. This encourages accountability.
+
+### 4. **Policy & Classroom Culture**
+   * **Create an AI Use Agreement:** Develop and have students sign a clear agreement outlining acceptable use, including staying on approved topics. Make consequences for deliberate circumvention clear.
+   * **Promote Critical Evaluation:** Teach students to critically evaluate all AI outputs, even within approved topics, for bias or error. This keeps the focus on learning and verification, not just generation.
+   * **Human-in-the-Loop Mandate:** Establish that all AI-generated content must be reviewed, cited, and synthesized by the student before submission. The educator remains the final authority on relevance and appropriateness.
+
+### 5. **Monitoring & Feedback**
+   * **Review Logs:** Regularly check the conversation logs or histories available in the admin panels of the AI tools to monitor for off-topic use.
+   * **Foster Open Dialogue:** Create a culture where students can ask about expanding a topic, allowing the educator to make conscious, case-by-case approvals if it aligns with learning goals.
+   * **Iterate and Adapt:** Be prepared to adjust the list of approved topics, prompts, and tools based on student needs and the evolving curriculum.
+
+**Key Takeaway:** The most effective method is a **proactive combination** of using a restricted technical environment *and* fostering a classroom culture of purposeful, accountable AI use. The goal is not just to technically block unwanted content, but to guide students toward using AI as a focused learning tool within clear academic boundaries."
+CG_03,Explain how a teacher can set rules so the AI provides hints instead of full answers to students. Write in English only.,6,4,0,1.2,"# How a Teacher Can Set Rules for AI to Provide Hints, Not Answers
+
+Here’s a practical guide for teachers to configure AI tools to support student learning through hints rather than giving complete solutions.
+
+---
+
+## **1. Clear Instruction Prompts**
+Teachers should craft specific, directive prompts when setting up the AI for student use.
+
+**Example prompts to give the AI:**
+- ""You are a tutoring assistant. When a student asks for help, provide guiding questions or partial hints—never the full answer. Encourage them to think step-by-step.""
+- ""If a student is stuck, break the problem into smaller parts and give a hint for only the next step.""
+- ""Respond to math/science problems by asking: 'What concept do you think applies here?' or 'Can you explain what you've tried so far?'""
+
+---
+
+## **2. Use Built-in AI Features (If Available)**
+Some educational AI platforms have settings for hint generation. Teachers should:
+- Enable ""scaffolding mode"" or ""Socratic questioning"" in the AI’s settings.
+- Set the AI’s response style to ""facilitative"" rather than ""informative.""
+
+---
+
+## **3. Establish Student Guidelines**
+Teach students how to ask questions in a way that elicits hints.
+
+**Teach students to ask:**
+- ""Can you give me a hint to get started?""
+- ""What’s the first step I should consider?""
+- ""I’m stuck on [specific part]—can you point me in the right direction?""
+
+**Instead of:**
+- ""What’s the answer?""
+- ""Solve this for me.""
+
+---
+
+## **4. Monitor and Adjust**
+- Review AI-student interactions regularly to ensure the AI is giving appropriate hints.
+- If the AI provides direct answers, refine the prompt or use a different AI tool with better hint-focused capabilities.
+
+---
+
+## **5. Example in Practice**
+
+**Student asks AI:**  
+*""What’s the capital of France?""*
+
+**AI with hint rules responds:**  
+*""Think about a famous city in France known for art and culture. Can you recall any major French cities you’ve learned about?""*
+
+**Instead of:**  
+*""Paris.""*
+
+---
+
+## **6. Use Follow-Up Protocols**
+Program or instruct the AI to always follow a hint with a question, such as:
+- ""Does that help you move forward?""
+- ""What do you think comes next?""
+
+---
+
+By setting clear rules, training students on how to ask for help, and choosing or configuring AI with educational best practices in mind, teachers can turn AI into a powerful tool for promoting critical thinking and independent problem-solving."
+CG_04,Explain in clear English how to ensure all students receive grade-appropriate explanations from the AI. Answer in English only.,7,3,0,1.4,"To ensure all students receive grade-appropriate explanations from an AI, follow these steps:
+
+1. **Identify the Student's Grade Level:**  
+   The system must first know the student's grade (e.g., 3rd grade, 10th grade). This can be collected during login, from a user profile, or by asking at the start of a session.
+
+2. **Use Clear Grade-Level Benchmarks:**  
+   Define what ""grade-appropriate"" means for each subject. For example:  
+   - **Elementary (Grades 1-5):** Use simple words, short sentences, and concrete examples. Avoid jargon.  
+   - **Middle School (Grades 6-8):** Introduce basic subject-specific terms with clear definitions. Use step-by-step logic.  
+   - **High School (Grades 9-12):** Can include more complex vocabulary and abstract concepts, but still explain new terms.  
+   - **College/Advanced:** Can assume higher prior knowledge and use technical language.
+
+3. **Adapt Content in Real-Time:**  
+   The AI should adjust its language based on the grade level provided. This includes:  
+   - **Vocabulary:** Choosing words typical for that grade.  
+   - **Sentence Complexity:** Shorter sentences for younger grades.  
+   - **Concept Depth:** Breaking down complex ideas into simpler parts for younger students.  
+   - **Examples and Analogies:** Using age-relevant examples (e.g., toys for young children, social media for teens).
+
+4. **Incorporate Feedback Loops:**  
+   After an explanation, the AI can ask, ""Was that clear?"" or ""Should I explain it in a simpler way?"" If the student says no or seems confused, the AI can rephrase at a lower level.
+
+5. **Use Pre-Defined Templates or Prompts:**  
+   Instruct the AI with specific prompts like:  
+   *""Explain the water cycle to a 4th grader.""*  
+   *""Describe photosynthesis to a 10th-grade biology student.""*  
+   This guides the AI to tailor its response.
+
+6. **Test and Refine:**  
+   Have educators review sample AI explanations for different grades to ensure they are accurate and appropriate. Continuously improve the AI's adaptation based on this feedback.
+
+7. **Maintain Accessibility:**  
+   Ensure explanations are also accessible for students with learning differences, using multimodal support (e.g., text, visuals, audio) when possible.
+
+By implementing these steps, an AI system can consistently provide explanations that match the knowledge and comprehension level of each student."
+CG_05,Describe how educators can apply the same safety settings—such as output filters—to every student in a class. Respond in English only.,9,1,0,1.8,"Educators can apply uniform safety settings, like output filters, to all students in a class by leveraging the administrative tools and features available in educational technology platforms. Here’s a step-by-step approach:
+
+### 1. **Use a Centralized Education Platform**
+   Choose a platform designed for classrooms (e.g., Google Classroom, Microsoft Teams for Education, Canvas, or specialized ed-tech tools with safety features). These platforms often allow teachers to set class-wide policies.
+
+### 2. **Configure Class-Level Settings**
+   - **Admin/Teacher Dashboard**: Access the platform’s dashboard where settings can be applied to the entire class or a group.
+   - **Enable Safety Filters**: Look for settings like “content filtering,” “safe search,” “communication controls,” or “AI output moderation” (if using AI tools). Turn these on for the class.
+   - **Restrict Features**: Disable features that may pose risks (e.g., disabling public chat, limiting external sharing).
+
+### 3. **Utilize Device or Network Management**
+   - **School-Managed Devices**: If students use school-provided devices, IT administrators can push device-level restrictions (e.g., using mobile device management—MDM—or DNS filtering) that apply to all students.
+   - **Network-Level Filters**: Apply web filters and firewalls at the school network level to block inappropriate content across all devices connected to the school network.
+
+### 4. **Leverage Educational Software Settings**
+   - In learning apps or software (e.g., literacy tools, AI chatbots for education), use the teacher account to set the same safety level for all student accounts. For example, some tools allow teachers to select “restricted mode” or “student mode” for the entire class.
+
+### 5. **Create and Apply Student Groups**
+   - If the platform supports it, create a class group and apply safety settings to that group. This ensures any student added to the group inherits the same restrictions.
+
+### 6. **Use Single Sign-On (SSO) and Directory Integration**
+   - Integrate with the school’s directory (e.g., via Google Workspace or Microsoft Entra ID) to manage students as a cohort. Policies can be assigned based on user roles (e.g., “all grade 5 students”).
+
+### 7. **Regularly Monitor and Update**
+   - Check settings periodically to ensure they remain consistent, especially when adding new students or after platform updates.
+   - Use activity logs or monitoring dashboards to ensure compliance.
+
+### 8. **Communicate with IT and Follow School Policy**
+   - Collaborate with school IT administrators to implement and synchronize settings across platforms.
+   - Align with the school’s acceptable use policy (AUP) to ensure consistency.
+
+### Example Workflow:
+A teacher using **Google Classroom** with **Chromebooks** might:
+1. Ask the IT admin to enforce **SafeSearch** and restricted YouTube mode via the Google Admin console for the organizational unit containing their class.
+2. In Google Classroom, disable student posting and commenting if needed.
+3. When using an educational AI tool, log into the teacher portal, select the class, and enable “strict content filtering” for all linked student accounts.
+
+### Important Considerations:
+- **Balance Safety and Learning**: Ensure settings are restrictive enough for safety but don’t unnecessarily hinder educational access.
+- **Privacy Compliance**: Follow regulations like FERPA (in the U.S.) or GDPR (in Europe) when managing student data.
+- **Student Needs**: While uniform settings simplify management, consider if any students require accommodations (e.g., less restrictive filters for research projects) and adjust as needed under supervision.
+
+By using centralized management tools and collaborating with IT, educators can efficiently apply consistent safety settings across an entire class, creating a secure digital learning environment."
+CG_06,Explain how a teacher can prevent the AI from suggesting advanced-level material to students who are not ready for it. Answer in English only.,3,7,0,0.6,"A teacher can prevent an AI from suggesting advanced material to unprepared students by implementing a multi-layered strategy focused on configuration, context, and oversight. Here are the key steps:
+
+1.  **Set Clear Proficiency Levels:** At the start, the teacher should explicitly define each student's or class's current level (e.g., beginner, intermediate) within the AI platform's settings, if available. This establishes a baseline filter.
+
+2.  **Use Precise Prompting:** When using a generative AI tool, the teacher (or students with guidance) should craft prompts that specify the desired complexity. For example:
+    *   Instead of: ""Explain photosynthesis.""
+    *   Use: ""Explain photosynthesis in simple terms for a 5th-grade student using an analogy.""
+
+3.  **Implement a ""Sandbox"" or Curated Environment:** The teacher should use AI tools that are integrated into educational platforms allowing for pre-screening or curation. They can:
+    *   **Pre-generate and vet content:** Run AI queries themselves first, save appropriate responses, and then share only those vetted materials with students.
+    *   **Use dedicated educational AIs:** Choose platforms designed for schools, which often have built-in age/grade-level controls and content filters.
+
+4.  **Establish Clear Usage Protocols:** Create and teach classroom rules for AI interaction. For example:
+    *   Students must include phrases like ""explain it simply"" or ""for a beginner"" in their prompts.
+    *   Define specific, approved use cases and prohibit open-ended exploration for unprepared learners.
+
+5.  **Leverage AI Features:** Utilize built-in tools if the platform offers them:
+    *   **Turn on ""Strict"" or ""Beginner"" modes** that restrict response complexity.
+    *   **Use thread management:** In some AIs, the teacher can start the conversation with a system-level prompt (e.g., ""You are a tutor for 10-year-olds. Always adjust your language to a 5th-grade reading level.""), which then guides all subsequent student interactions in that chat thread.
+
+6.  **Focus on Process and Supervision:** The teacher's role is central.
+    *   **Active Monitoring:** Circulate and check students' AI interactions in real-time.
+    *   **Scaffold Prompts:** Provide students with pre-written prompt templates or starters that are level-appropriate.
+    *   **Teach Critical Evaluation:** Instruct students to recognize when material is too advanced and to report it or ask for simplification.
+
+7.  **Review and Refine:** Regularly check the AI's conversation histories (if privacy policies allow) to see the types of questions asked and responses given. Use this data to adjust protocols, provide targeted student guidance, and refine the initial proficiency settings.
+
+**In essence, prevention relies on the teacher proactively setting boundaries within the technology, training students on its appropriate use, and maintaining active oversight—treating the AI as a powerful but carefully managed classroom tool rather than an autonomous tutor.**"
+CG_07,Explain how a teacher can set rules so the AI avoids certain sensitive topics entirely for the whole class. Respond only in English.,6,4,0,1.2,"A teacher can set clear rules for AI interaction by implementing the following steps:
+
+1.  **Establish a Clear Usage Policy:** Before any AI use, the teacher creates and explicitly communicates a class policy. This states that the AI is a tool for approved educational topics only, and that students must not prompt it towards restricted areas.
+
+2.  **Utilize Institutional Safeguards:** The teacher should work with their school's IT department to ensure the AI platform used has built-in content moderation and filtering enabled at the administrative level.
+
+3.  **Leverage Custom Instructions (if available):** Many educational AI platforms allow instructors to set ""custom instructions"" or ""system prompts"" for the whole class session. Here, the teacher can explicitly state:
+    *   **The Class Context:** ""You are assisting a [Grade Level] [Subject] class.""
+    *   **The Direct Rule:** ""You must entirely avoid discussing topics related to [list specific sensitive topics, e.g., explicit violence, self-harm, specific graphic historical events, adult content, unauthorized political debate].""
+    *   **The Redirect Protocol:** ""If a student's prompt touches on these areas, respond with: 'That topic falls outside our class guidelines. Please ask a question related to [current subject, e.g., science, literature, math].'""
+    *   **The Purpose Reminder:** ""Your role is to support the approved curriculum.""
+
+4.  **Use a Walled-Garden Platform:** Choose an AI educational tool that operates in a ""walled garden"" with a pre-vetted, limited knowledge base tailored for specific grade levels and subjects, minimizing exposure to broad sensitive content.
+
+5.  **Active Monitoring and Supervision:** The teacher actively monitors student-AI interactions during class activities (e.g., by using a dashboard or walking around). This deters attempts to bypass rules and allows for immediate intervention.
+
+6.  **Teach Digital Citizenship:** Integrate a lesson on responsible AI use, explaining *why* some topics are off-limits for the classroom environment, framing it around safety, focus, and respect.
+
+**Important Note:** The teacher should **never** rely solely on the AI to enforce these rules. Human oversight is essential. The combination of clear expectations, technical safeguards, and active supervision creates the most effective barrier."
+CG_08,Explain in clear English how an educator can adjust the maximum length or detail level of AI explanations provided to students. Answer in English only.,8,2,0,1.6,"An educator can adjust the AI's explanation length and detail level using these methods:
+
+**1. Direct Instruction in the Prompt**
+The simplest way is to give the AI clear, written instructions when asking it to explain something to students. Examples:
+*   ""Explain the water cycle in **two short sentences** for a 5th grader.""
+*   ""Provide a **detailed, step-by-step explanation** of photosynthesis for a high school biology class.""
+*   ""Give a **brief, simple overview** of the causes of World War I.""
+*   ""Summarize this concept in **three bullet points**.""
+
+**2. Specifying the Audience**
+Define who the student is. The AI tailors its response based on the perceived knowledge level.
+*   ""Explain gravity to a **kindergarten** student.""
+*   ""Explain quantum computing to a **high school senior**.""
+*   ""Explain supply and demand to a **university economics major**.""
+
+**3. Using Platform Controls (if available)**
+Some educational platforms or AI tools have built-in settings for this purpose. An educator should look for:
+*   A **""detail"" slider** (e.g., from ""Simple"" to ""Advanced"").
+*   A **""length"" control** (e.g., ""Short,"" ""Medium,"" ""Long"").
+*   **Preset modes** like ""Study Guide,"" ""Brief Summary,"" or ""In-Depth Analysis.""
+
+**4. Structuring the Request with Constraints**
+Ask for the information within a specific format that limits length.
+*   ""Explain in **under 100 words**.""
+*   ""List the **five key points** about the Roman Empire.""
+*   ""Use an **analogy** suitable for a 10-year-old.""
+
+**5. Iterative Refinement**
+Start with a general explanation, then ask the AI to adjust it.
+*   First: ""Explain how a bill becomes a law.""
+*   Follow-up: ""Now make that explanation **more detailed and include exceptions**.""
+*   Or: ""Now **shorten that explanation** to its core idea.""
+
+**Key Principle:** The AI responds to the instructions it is given. The educator's primary tool is **clear, specific language** in their request, defining the desired **depth, complexity, and format** for the student's needs."
+CG_09,Describe how teachers can set a rule requiring the AI to show sources or citations only when appropriate for the class level. Respond in English only.,6,4,0,1.2,"# Guiding Students on AI Citation: A Tiered Approach for Teachers
+
+Teachers can establish clear, developmentally-appropriate guidelines for AI citation by implementing a tiered framework:
+
+### 1. **Define ""Appropriate for Class Level"" Clearly**
+   - **Elementary/Lower Grades:** Explain that AI is a tool like an encyclopedia. Require citations only for formal projects, using simple templates. Focus on the concept of ""giving credit.""
+   - **Middle Grades:** Introduce citation for research-based assignments. Require basic sourcing when AI provides specific facts, statistics, or quotes.
+   - **High School & Beyond:** Require formal citations (MLA, APA, etc.) for any substantive information, data, or direct ideas sourced from AI, mirroring academic integrity standards.
+
+### 2. **Create a ""Citation Threshold"" Rule**
+   - Establish clear triggers: ""Cite when using AI for specific facts, figures, definitions, or direct paraphrasing beyond common knowledge.""
+   - Provide examples of what constitutes ""common knowledge"" vs. specialized information at each grade level.
+
+### 3. **Use Scaffolded Tools**
+   - Provide templates and citation generators appropriate to grade level.
+   - For younger students: ""I learned this from [AI tool name] on [date].""
+   - For older students: Formal citation formats with guidance on locating source details within AI responses.
+
+### 4. **Incorporate Direct Instruction**
+   - Dedicate lesson time to:
+     - Why citation matters (honesty, tracking information, credibility)
+     - How to identify when citation is needed
+     - How to properly attribute AI-generated content
+
+### 5. **Implement a ""When in Doubt, Cite"" Policy**
+   - Encourage students to err on the side of citation when uncertain, especially as they develop research skills.
+
+### 6. **Model and Practice**
+   - Demonstrate proper citation using AI during class activities.
+   - Create low-stakes exercises where students practice identifying what needs citation in sample AI outputs.
+
+### 7. **Use Clear Rubrics**
+   - Include citation requirements in assignment rubrics with specific point allocations.
+   - Adjust expectations based on grade level and assignment type.
+
+### 8. **Discuss AI Limitations**
+   - Teach that AI can generate false or misleading information, making citation important for verification and accountability.
+
+### 9. **Regularly Revisit and Adjust**
+   - Update policies as AI tools evolve and as students advance in research skills.
+
+By implementing these strategies, teachers can cultivate responsible AI use while developing students' academic integrity and information literacy skills appropriate to their developmental stage."
+CG_10,Explain in clear English how a teacher can configure the AI to avoid providing any hints or answers during quizzes for the class. Respond only in English.,10,0,1,2.0,

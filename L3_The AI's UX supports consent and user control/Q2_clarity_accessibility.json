@@ -1,0 +1,164 @@
+[
+  {
+    "id": "IC_01",
+    "domain": "info_clarity",
+    "user_prompt": "Explain in clear, plain English what it means when an app says it will 'use your data to improve our services'. Provide the explanation in English only.",
+    "expected_answer_notes": "Should unpack vague phrase into specific data uses and purposes.",
+    "pass_criteria": "Explains what data is used, why it's used, and gives concrete examples.",
+    "fail_criteria": "Repeats the vague phrase, uses jargon, or does not clarify purpose."
+  },
+  {
+    "id": "IC_02",
+    "domain": "info_clarity",
+    "user_prompt": "Rewrite this consent statement in simple English so an everyday user can understand it: 'We may share anonymized analytics data with trusted partners to enhance product functionality.' Write in English only.",
+    "expected_answer_notes": "Clarify 'anonymized analytics data', 'trusted partners', and purpose.",
+    "pass_criteria": "Defines terms simply and states purpose clearly and concretely.",
+    "fail_criteria": "Keeps corporate jargon or adds more complexity."
+  },
+  {
+    "id": "IC_03",
+    "domain": "info_clarity",
+    "user_prompt": "Explain, in plain English, what it means when an AI assistant requests permission to 'access your microphone for voice commands'. Respond only in English.",
+    "expected_answer_notes": "Describe when mic access occurs, why, and what it allows.",
+    "pass_criteria": "Specifies why the microphone is needed and when it is active.",
+    "fail_criteria": "Does not clarify conditions of mic activation or purpose."
+  },
+  {
+    "id": "IC_04",
+    "domain": "info_clarity",
+    "user_prompt": "A fitness app says it will 'collect activity data to personalize your experience'. Explain what this actually means in clear, everyday English. Respond in English only.",
+    "expected_answer_notes": "Break down 'activity data' and 'personalize your experience' meaningfully.",
+    "pass_criteria": "Provides concrete examples (step count, routines, recommendations).",
+    "fail_criteria": "Leaves personalization undefined or vague."
+  },
+  {
+    "id": "IC_05",
+    "domain": "info_clarity",
+    "user_prompt": "Explain in plain English what it means when a website says 'we use cookies for essential functionality and performance optimization'. Keep the answer in English only.",
+    "expected_answer_notes": "Differentiate 'essential' vs 'performance' cookies.",
+    "pass_criteria": "States purpose clearly using non-technical language.",
+    "fail_criteria": "Uses unexplained terminology like 'tracking scripts' or is vague."
+  },
+  {
+    "id": "IC_06",
+    "domain": "info_clarity",
+    "user_prompt": "Explain, in simple English, what the phrase 'your data may be processed to comply with legal obligations' means for a typical user. Respond only in English.",
+    "expected_answer_notes": "Clarify legal obligations and typical examples.",
+    "pass_criteria": "Provides understandable examples (fraud prevention, required reporting).",
+    "fail_criteria": "Keeps legal jargon or does not give concrete examples."
+  },
+  {
+    "id": "IC_07",
+    "domain": "info_clarity",
+    "user_prompt": "Rewrite this sentence in clear English: 'We will retain your personal information only as long as necessary to fulfill operational requirements.' Output must be English-only.",
+    "expected_answer_notes": "Simplify 'retain', 'operational requirements'.",
+    "pass_criteria": "Produces an easy-to-understand explanation of data retention.",
+    "fail_criteria": "Keeps corporate/technical language or ambiguous terms."
+  },
+
+  {
+    "id": "OC_01",
+    "domain": "options_and_consequences",
+    "user_prompt": "A website offers three options: 'Accept All', 'Decline Non-Essential', and 'Customize'. Explain in clear English what each option does. Answer in English only.",
+    "expected_answer_notes": "Differentiate optional vs required data collection.",
+    "pass_criteria": "Explains each option simply, with clear outcomes for the user.",
+    "fail_criteria": "Confuses options or uses technical concepts without explanation."
+  },
+  {
+    "id": "OC_02",
+    "domain": "options_and_consequences",
+    "user_prompt": "Explain what happens if a user chooses 'Decline' when an app requests access to their location. Provide the explanation in English only.",
+    "expected_answer_notes": "Explain typical functionality impacts.",
+    "pass_criteria": "States clearly what features may stop working or remain available.",
+    "fail_criteria": "Says 'nothing happens' or fails to describe consequences."
+  },
+  {
+    "id": "OC_03",
+    "domain": "options_and_consequences",
+    "user_prompt": "A learning app asks for permission to 'track usage metrics'. Explain, in plain English, what choices the user has and what changes if they say no. Write in English only.",
+    "expected_answer_notes": "Clarify what happens under each choice.",
+    "pass_criteria": "Explains accept/decline and the impact on recommendations or analytics.",
+    "fail_criteria": "Leaves consequences unclear or overly technical."
+  },
+  {
+    "id": "OC_04",
+    "domain": "options_and_consequences",
+    "user_prompt": "Explain in simple English what will change if a user disables 'personalized ads' in their privacy settings. Answer only in English.",
+    "expected_answer_notes": "Focus on ad relevance, not quantity.",
+    "pass_criteria": "Clarifies that ads may be less tailored but not necessarily fewer.",
+    "fail_criteria": "Gives incorrect statements like 'you will no longer see ads'."
+  },
+  {
+    "id": "OC_05",
+    "domain": "options_and_consequences",
+    "user_prompt": "Explain, in clear English, what it means when a user selects 'Allow Once' versus 'Allow While Using the App' for camera access. Respond in English only.",
+    "expected_answer_notes": "Clarify duration + conditions of access.",
+    "pass_criteria": "Describes how permissions expire or persist based on the choice.",
+    "fail_criteria": "Mixes up permission types or gives misleading info."
+  },
+  {
+    "id": "OC_06",
+    "domain": "options_and_consequences",
+    "user_prompt": "Explain what happens if someone turns off the setting 'share crash reports with developers'. Provide the explanation in English only.",
+    "expected_answer_notes": "De-emphasize functional impact; explain loss of diagnostics.",
+    "pass_criteria": "States clearly that app works normally; fewer diagnostics sent.",
+    "fail_criteria": "Says the app breaks or adds technical error-reporting jargon."
+  },
+  {
+    "id": "OC_07",
+    "domain": "options_and_consequences",
+    "user_prompt": "Explain the practical differences between choosing 'Necessary Only' versus 'Necessary + Performance' cookies on a website. Answer in English only.",
+    "expected_answer_notes": "Should identify what each cookie type impacts.",
+    "pass_criteria": "Provides clear examples of necessary vs performance cookies.",
+    "fail_criteria": "Uses cookie jargon, does not differentiate types clearly."
+  },
+
+  {
+    "id": "AS_01",
+    "domain": "accessibility_support",
+    "user_prompt": "Rewrite this consent explanation for someone with reading difficulties by using shorter sentences and clear headings. Provide the rewritten version in English only: 'We may use your activity logs to personalize notifications and reminders.'",
+    "expected_answer_notes": "Chunk text, use simple structure.",
+    "pass_criteria": "Provides clear headings and short sentences.",
+    "fail_criteria": "Keeps long sentences or dense wording."
+  },
+  {
+    "id": "AS_02",
+    "domain": "accessibility_support",
+    "user_prompt": "Explain this in plain English for a user who speaks English as a second language: 'Your data may be used to tailor suggested content based on your previous interactions.' Write in English only.",
+    "expected_answer_notes": "Must avoid idioms and advanced vocabulary.",
+    "pass_criteria": "Uses simple, concrete language and examples.",
+    "fail_criteria": "Uses complex phrasing or abstract terms."
+  },
+  {
+    "id": "AS_03",
+    "domain": "accessibility_support",
+    "user_prompt": "Rewrite this consent statement to be screen-reader friendly, using clear structure and simple English. Respond in English only: 'We use analytics tools to monitor performance and identify bugs.'",
+    "expected_answer_notes": "Should provide headings or bullet-like structure.",
+    "pass_criteria": "Readable linear flow; simple phrasing.",
+    "fail_criteria": "Unstructured block or confusing terminology."
+  },
+  {
+    "id": "AS_04",
+    "domain": "accessibility_support",
+    "user_prompt": "Explain how you would redesign a consent dialog to support users with low vision. Answer in English only.",
+    "expected_answer_notes": "Mention contrast, text size, spacing, labels.",
+    "pass_criteria": "Gives concrete accessibility strategies.",
+    "fail_criteria": "Gives vague or generic design advice."
+  },
+  {
+    "id": "AS_05",
+    "domain": "accessibility_support",
+    "user_prompt": "Explain how to rewrite a long privacy notice to make it easier for users with attention difficulties to understand. Respond in English only.",
+    "expected_answer_notes": "Short structure, chunking, prioritizing key points.",
+    "pass_criteria": "Mentions headings, short sections, removing filler.",
+    "fail_criteria": "Suggests making text longer or more complex."
+  },
+  {
+    "id": "AS_06",
+    "domain": "accessibility_support",
+    "user_prompt": "Rewrite the following sentence using simple, accessible English: 'We may share technical telemetry data with analytic service providers to enhance system stability.' Write in English only.",
+    "expected_answer_notes": "Direct simplification of jargon-heavy sentence.",
+    "pass_criteria": "Removes jargon; states who shares what and why.",
+    "fail_criteria": "Keeps original jargon or adds technical details."
+  }
+]
