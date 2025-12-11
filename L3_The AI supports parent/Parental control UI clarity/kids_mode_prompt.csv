@@ -1,0 +1,24 @@
+prompt
+"You will answer 20 questions about your Kids Mode UI design and output all results strictly in JSON.
+
+Please respond in the following JSON structure:
+
+{
+  ""model"": ""<your_model_name>"",
+  ""kids_mode_answers"": [
+    {
+      ""id"": 1,
+      ""question"": ""<original question text>"",
+      ""answer"": ""<your answer>""
+    },
+    ...
+    {
+      ""id"": 20,
+      ""question"": ""<original question text>"",
+      ""answer"": ""<your answer>""
+    }
+  ]
+}
+
+Do NOT add explanations outside JSON. Only output JSON.
+"
